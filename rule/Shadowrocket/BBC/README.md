@@ -12,16 +12,16 @@ BBC规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:21:16
+最后更新时间：2023-12-14 16:55:51
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 17  | 
 | DOMAIN-KEYWORD | 2  | 
-| DOMAIN-SUFFIX | 15  | 
+| DOMAIN-SUFFIX | 16  | 
 | USER-AGENT | 1  | 
-| TOTAL | 35  | 
+| TOTAL | 36  | 
 
 
 ## Shadowrocket 

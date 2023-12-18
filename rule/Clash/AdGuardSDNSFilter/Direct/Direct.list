@@ -1,9 +1,9 @@
 # NAME: AdGuardSDNSFilterDirect
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:22:46
-# DOMAIN: 112
-# TOTAL: 112
+# UPDATED: 2023-12-14 16:58:05
+# DOMAIN: 120
+# TOTAL: 120
 DOMAIN,5471782.fls.doubleclick.net
 DOMAIN,79423.analytics.edgekey.net
 DOMAIN,a.adwolf.ru
@@ -22,6 +22,7 @@ DOMAIN,analytics.amplitude.com
 DOMAIN,anwb.webpower.eu
 DOMAIN,api.ads.tvb.com
 DOMAIN,api.docodoco.jp
+DOMAIN,api.karte.io
 DOMAIN,app-advertise.zhihuishu.com
 DOMAIN,app-cdn.minepi.com
 DOMAIN,app.appsflyer.com
@@ -33,13 +34,12 @@ DOMAIN,captcha.su.baidu.com
 DOMAIN,catchup.thisisdax.com
 DOMAIN,cdn.duurzaam.greenchoice.nl
 DOMAIN,cdn.rozetka.com.ua
-DOMAIN,cdnbc-wup.hsbc.com.hk
-DOMAIN,chathamdailynews.remembering.ca
 DOMAIN,cindyholbrook.lpages.co
 DOMAIN,citiintl.122.2o7.net
 DOMAIN,cj.dotomi.com
 DOMAIN,classliving.lpages.co
 DOMAIN,click.appcast.io
+DOMAIN,click.cptrack.de
 DOMAIN,click.simba.taobao.com
 DOMAIN,click.trafficguard.ai
 DOMAIN,click.virt.exacttarget.com
@@ -47,10 +47,13 @@ DOMAIN,clickattr.wayup.com
 DOMAIN,cloud.notification-naviextras.com
 DOMAIN,cm-beacon.nakanohito.jp
 DOMAIN,cm-widget.nakanohito.jp
+DOMAIN,cmp.inmobi.com
 DOMAIN,crm-cdn.peek-cloppenburg.com
 DOMAIN,cs.silverpop.com
 DOMAIN,cutcaptcha.com
 DOMAIN,daikoku.ebis.ne.jp
+DOMAIN,data.digital.costco.ca
+DOMAIN,data.digital.costco.com
 DOMAIN,e.customeriomail.com
 DOMAIN,email.awscloud.com
 DOMAIN,email.elitedangerous.com
@@ -59,6 +62,7 @@ DOMAIN,envato.market
 DOMAIN,eum-blue-saas.instana.io
 DOMAIN,feed.adrelayer.com
 DOMAIN,forum.notebookreview.com
+DOMAIN,gate.first-id.fr
 DOMAIN,go.adjust.com
 DOMAIN,go.scorptec.com.au
 DOMAIN,goto.target.com
@@ -75,6 +79,7 @@ DOMAIN,id.i2i.jp
 DOMAIN,img.ads.tvb.com
 DOMAIN,intersport.peerius.com
 DOMAIN,js.monitor.azure.com
+DOMAIN,leechers-paradise.org
 DOMAIN,link.morningbrew.com
 DOMAIN,links.e.theatlantic.com
 DOMAIN,links.getblueshift.com
@@ -101,6 +106,9 @@ DOMAIN,px.a8.net
 DOMAIN,radiofrance.targetspot.com
 DOMAIN,redir.tradedoubler.com
 DOMAIN,redirect.appmetrica.yandex.com
+DOMAIN,refer.discover.com
+DOMAIN,remembering.ca
+DOMAIN,sponsor.nitropay.com
 DOMAIN,stash.roistat.com
 DOMAIN,str.hit.gemius.pl
 DOMAIN,support-beacon.nakanohito.jp
@@ -113,6 +121,6 @@ DOMAIN,torimochi.line-apps.com
 DOMAIN,track.rutarget.ru
 DOMAIN,validate.perfdrive.com
 DOMAIN,vcentry3.valuecommerce.ne.jp
-DOMAIN,wup-7b4df495.santander.cl
 DOMAIN,www.googleadservices.com
 DOMAIN,www.jdoqocy.com
+DOMAIN,www.statcounter.com

@@ -1,14 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-12 02:10:48
-# DOMAIN: 159
-# DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 19118
-# IP-CIDR: 106
+# UPDATED: 2023-12-17 02:12:27
+# DOMAIN: 158
+# DOMAIN-KEYWORD: 37
+# DOMAIN-SUFFIX: 19354
+# IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 19427
+# TOTAL: 19666
+a.ppy.sh
 adobeereg.com
 angle.com.tw
 anime-rule34-world.b-cdn.net
@@ -17,6 +18,7 @@ apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
 asahishimbun.sc.omtrdc.net
+assets.ppy.sh
 assets1.xboxlive.com
 assets2.xboxlive.com
 az416426.vo.msecnd.net
@@ -27,26 +29,24 @@ azuremarketplace.microsoft.com
 beatselectronicsllc.tt.omtrdc.net
 beck-online.beck.de
 blizzard.nefficient.co.kr
-blz.nosdn.127.net
+bybit.ada.support
+c.ppy.sh
 cbsi.live.ott.irdeto.com
 cbsplaylistserver.aws.syncbak.com
 cbsservice.aws.syncbak.com
-certs-lb.apple.com.akadns.net
+cdn-spotify-experiments.conductrics.com
 cisco.evergage.com
 clubhouse.pubnubapi.com
 courier-push-apple.com.akadns.net
-crl-lb.apple.com.akadns.net
 crl.microsoft.com
 crl.versign.net
 databank.worldbank.org
 default.exp-tas.com
+deribit.cdn.prismic.io
 deutschewelle.h-cdn.com
 developer.microsoft.com
-di.res.netease.com
-diablo3.nosdn.127.net
 dl.begellhouse.com
 download.visualstudio.microsoft.com
-e122475.dscg.akamaiedge.net
 ea.tt.omtrdc.net
 elib.maruzen.co.jp
 espn.hb.omtrdc.net
@@ -54,26 +54,26 @@ espndotcom.tt.omtrdc.net
 faronics.kayako.com
 firstsearch.oclc.org
 gog.qtlglb.com
-hearthstone.nosdn.127.net
-heroes.nos.netease.com
 hpstore.corpmerchandise.com
 i.jeded.com
 imperial.insendi.com
+lazer.ppy.sh
 lgelectronics.122.2o7.net
 licdn.cn.cdn20.com
 linkedin.sc.omtrdc.net
 live-patreon-marketing.pantheonsite.io
+m1.ppy.sh
 mdn.mozillademos.org
 medone-education.thieme.com
 mscrl.microsoft.com
 muse.jhu.edu
 nationalaustraliaban.tt.omtrdc.net
+notify.ppy.sh
 nvidia.tt.omtrdc.net
 ocsp.microsoft.com
-ocsp2-lb.apple.com.akadns.net
 oneocsp.microsoft.com
 ood.opsource.net
-overwatch.nosdn.127.net
+osu.ppy.sh
 pchomeonline.com.tw
 practivate.adobe
 practivate.adobe.ipp
@@ -81,7 +81,6 @@ practivate.adobe.newoa
 practivate.adobe.ntp
 push-apple.com.akadns.net
 qualcomm.sc.omtrdc.net
-sc2.nosdn.127.net
 scholar.google.ae
 scholar.google.at
 scholar.google.be
@@ -153,6 +152,8 @@ scholar.google.ru
 scholar.google.se
 scholar.google.si
 scholar.google.sk
+sentry.ppy.sh
+spectator.ppy.sh
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 tesla-cdn.thron.cn
@@ -161,13 +162,11 @@ vmware.tt.omtrdc.net
 vscode.search.windows.net
 vsmarketplacebadge.apphb.com
 widgets.stripst.com
-wow.nosdn.127.net
 wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 api.waqi.info
 aqi.aqicn.org
 cloud.oracle.com
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .01.org
 .02weqj32.com
 .04647.club
@@ -191,6 +190,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .123-hp.com
 .123hplaserjet.com
 .123sex.top
+.126728.net
 .128100.xyz
 .12diasdepresentesdeitunes.com
 .12diasderegalosdeitunes.co
@@ -198,6 +198,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .12diasderegalosdeitunes.com.co
 .12joursdecadeauxdeitunes.com
 .132288.cc
+.141-hk.com
 .141jav.com
 .159i.com
 .161sex.com
@@ -215,6 +216,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .188channel.com
 .18av.pro
 .18avx.com
+.18comic-god.cc
+.18comic-god.club
+.18comic-god.xyz
 .18comic.cc
 .18comic.company
 .18comic.org
@@ -263,6 +267,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .21centuryaccess.com
 .21hub.com
 .21naturals.com
+.21vv.cc
 .2371tom.com
 .249dw7.cn
 .24hjav.com
@@ -292,6 +297,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .32bm.cc
 .35s4.com
 .365buymy.com
+.36717.info
 .3789av.com
 .39group.info
 .3animalsextube.com
@@ -372,6 +378,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .54647.online
 .54647.org
 .55dndn.com
+.567321.online
 .568xe.com
 .58avgo.com
 .592r.com
@@ -392,12 +399,14 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .67id.com
 .67maoab.com
 .69-sexgames.com
+.69av.one
 .69bag.xyz
 .69femdom.com
 .69flv.com
 .69gayporno.com
 .69loli.com
 .69luolie.com
+.69re.net
 .69story.com
 .69tubesex.com
 .69vj.com
@@ -448,9 +457,18 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .91oo.xyz
 .91porn.best
 .91porn.com
+.91porn.group
+.91porn.party
+.91porn.plus
 .91porn.work
+.91pornf.com
+.91pornplus.com
+.91pornv.com
+.91pornx.com
 .91porny.com
+.91porny.store
 .91qk41rf.com
+.91quanji.com
 .91rb.com
 .91rb.net
 .91se.fun
@@ -460,8 +478,11 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .921bb.com
 .922tp.com
 .928.plus
+.92hm.life
+.92hm.top
 .941tube.com
 .9550.fun
+.978.life
 .97dounai.top
 .99quse.cc
 .99re.com
@@ -494,8 +515,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .aadrm.cn
 .aalah.me
 .aanaan.com
+.aave.com
 .aavs.xyz
 .abbywintersfree.com
+.abc-studios.com
 .abcheadphones.com
 .abclider.com
 .abeatsbydrdre.com
@@ -557,14 +580,18 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .adanaatikhaber.com
 .adbecrsl.com
 .adbkm.com
-.adcdownload.apple.com.akadns.net
 .adcommerce.cn
 .addthiscdn.com
 .addtoany.com
 .addyoutube.com
 .adgoogle.net
+.adguard-dns.com
 .adguard-vpn.com
+.adguard-vpn.online
+.adguard.app
 .adguard.com
+.adguard.info
+.adguardvpn.com
 .adhelpnews.com
 .adidas.com
 .admeld.com
@@ -610,6 +637,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ads-pixiv.net
 .adsensecustomsearchads.com
 .adsenseformobileapps.com
+.adtidy.net
 .adult-h.com
 .adult-home-videos.com
 .adult-list.com
@@ -677,6 +705,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .afewmomentswith.com
 .affect3dstore.com
 .affirmtrust.com
+.afkv28.com
 .aflamporn.com
 .aflamsex.net
 .aflamsexhd.com
@@ -701,7 +730,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ahtranny.com
 .ahvideosexe.com
 .ahxxx.club
-.ai.com
+.ai91porn.cc
 .aibaobei.me
 .aicoin.com
 .aimei133.com
@@ -748,6 +777,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .akadns6.net
 .akaeai.com
 .akafms.net
+.akagtm.org
 .akahost.net
 .akaint.net
 .akam.net
@@ -766,6 +796,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .akamai-thailand.net
 .akamai-trials.com
 .akamai.com
+.akamaiedge.net
 .akamaientrypoint.net
 .akamaietpcnctest.com
 .akamaietpcompromisedcnctest.com
@@ -797,6 +828,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .akastream.com
 .akastream.net
 .akatns.net
+.akthelp.com
 .albagals.com
 .albastudio.co
 .albeats.com
@@ -832,6 +864,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .allporncomic.com
 .allpornsites.net
 .allpornsitespass.com
+.allspyclips.com
 .allswingersclubs.org
 .allthefallen.moe
 .alohatube.com
@@ -877,6 +910,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .amateuranalvideos.com
 .amateurarchiver.com
 .amateurbdsmporn.com
+.amateurblondegirls.com
 .amateurblowjobporn.com
 .amateurcool.com
 .amateurcuckoldporn.com
@@ -917,6 +951,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .amazon-lantern.com
 .amazon-launchpad.com
 .amazon.cn
+.amazon.dev
 .amazon.jobs
 .amazon.red
 .amazonalexavoxcon.com
@@ -976,6 +1011,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .anacams.com
 .anaconda.cloud
 .anaconda.org
+.anal-f.net
 .anal-pantyhose.com
 .anal.media
 .analamateursex.com
@@ -999,6 +1035,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .andysparis.com
 .anfutong.cn
 .anfutong.com
+.angel-gto.com
 .angulardart.org
 .anibooru.com
 .anidom.com
@@ -1245,6 +1282,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .appmediagroup.com
 .approvedusedbmw.com
 .appserviceenvironment.cn
+.appsflayer.com
 .appsonebay.net
 .appstoreapple.cn
 .appule.com
@@ -1253,6 +1291,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .apress.com
 .apture.com
 .apyle.com
+.aqdlt.net
 .ar.hao123.com
 .arabianchicks.com
 .arabidopsis.org
@@ -1263,6 +1302,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .arabysexy.mobi
 .arcadewank.com
 .arcgisonline.com
+.archive-it.org
 .archiveofourown.net
 .archlinux.org
 .archlinuxarm.org
@@ -1406,6 +1446,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .auricularesbeatsmarkt.com
 .auroraoss.com
 .ausbeatsbydrdre.com
+.auth0.com
 .authorxml.com
 .authy.com
 .autodesk.com
@@ -1437,11 +1478,13 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .avhbo.com
 .avhd101.com
 .avhome.one
+.avhu.com
 .avinetworks.com
 .avinin.com
 .avizoon.site
 .avizoone.com
 .avjb.com
+.avjoy.me
 .avlulu.cc
 .avmoo.click
 .avn.com
@@ -1549,6 +1592,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .azuredns-prd.info
 .azuredns-prd.org
 .azureedge-test.net
+.azurefd.net
 .azurehdinsight.cn
 .azureiotcentral.com
 .azureiotsolutions.com
@@ -1637,6 +1681,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .barrons.com
 .baselinestudy.com
 .baselinestudy.org
+.basilisk-browser.org
 .bastropfirestone.com
 .baterias-hp.com
 .batsa.me
@@ -1659,6 +1704,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bb33.net
 .bbbaihu.vip
 .bbc-anal.com
+.bbc-reporting-api.app
 .bbcpersian.com
 .bbcpornonly.com
 .bbcverticals.com
@@ -1968,6 +2014,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .beibao.cn
 .beibao.com
 .beijingnike.com
+.beiyongzhan1.com
 .bejav.net
 .bejeweledstars.com
 .bejewled-stars.com
@@ -2017,13 +2064,13 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bestfreesexgames.com
 .bestfreetube.net
 .bestgames-2022.com
-.bestgore.com
 .besthandjobporn.com
 .besthentaitube.com
 .bestiality.guru
 .bestialitysextaboo.com
 .bestiphonestuff.com
 .bestjapanesepornsites.com
+.bestjavporn.com
 .bestjavporn.net
 .bestkinky.com
 .bestlistofporn.com
@@ -2040,6 +2087,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .besttitstube.com
 .besttube4you.com
 .bestxxxsites.com
+.besuty99.com
 .besztbuy.com
 .beth.games
 .bethesda.net
@@ -2109,6 +2157,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .billpoint.info
 .billpointnewzealand.com
 .bimbim.com
+.bimbolive.com
 .binads.com
 .binance.cc
 .binance.charity
@@ -2159,6 +2208,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bitchmomporn.com
 .bitcoin.org
 .bitflyer.com
+.bitget.com
 .bitly.com
 .bitnami.com
 .bitnamiapp.com
@@ -2191,8 +2241,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .blender.org
 .blink.org
 .blinkload.zone
-.blizzard.cn
-.blizzardgames.cn
 .blizzardgearstore.com
 .blob.core.windows.net
 .blog.descargasgay.com
@@ -2254,7 +2302,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bluffyporn.com
 .blurams.com
 .blz-contentstack.com
-.blzstatic.cn
 .bmia.org
 .bml.info
 .bmw-abudhabi.com
@@ -2415,7 +2462,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bmwzentrum.com
 .bnbstatic.com
 .bnef.com
-.bnet.163.com
 .boboporn.com
 .boboporn.net
 .bobovip.cc
@@ -2573,7 +2619,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .bronto.com
 .brotli.org
 .brourou.com
-.browserleaks.com
+.browser.kagi.com
 .brutalbdsmtube.com
 .brutalfetish.com
 .bs-adreview.com
@@ -2646,17 +2692,22 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .buyshoponly.com
 .buzzardflapper.com
 .buzzav.com
-.buzzsprout.com
 .bvdinfo.com
 .bvfce6wz.xyz
 .bwh8.net
+.bwh81.net
 .bwh88.net
+.bwh89.net
 .bwin.com
+.byapis.com
 .bybeatsdre.com
+.bycbe.com
+.bycsi.com
 .bydrebeats.com
 .byjav.me
 .byjhd.com
 .byspotify.com
+.bytick.com
 .bzazi.com
 .c-ij.com
 .c0930.com
@@ -2679,6 +2730,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .callhulu.com
 .calvappd.me
 .cam69.com
+.cambaddies.com
 .cambiaip.org
 .cambridgedigital.net
 .cambridgemaths.org
@@ -2816,6 +2868,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ccstatic.org
 .cdkworkshop.com
 .cdmatech.com
+.cdn-telegram.org
 .cdn-terapeak.com
 .cdn77.com
 .cdn77.org
@@ -2823,7 +2876,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cdnjs.com
 .cdnlab.live
 .cdnpure.com
-.cds.apple.com.akadns.net
 .cebay.com
 .cegid-cloud.cn
 .ceicdata.com
@@ -2923,6 +2975,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cheapshoesvip.com
 .cheapwireless04.com
 .cheapwirelessbeats.com
+.chegg.com
+.cheggcdn.com
 .chemequations.com
 .chemnetbase.com
 .chengjuanseo.com
@@ -3026,10 +3080,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ckcdn.com
 .ckck.fun
 .ckss98.com
-.cl1-cdn.origin-apple.com.akadns.net
-.cl3-cdn.origin-apple.com.akadns.net
-.cl4-cdn.origin-apple.com.akadns.net
-.cl5-cdn.origin-apple.com.akadns.net
 .claravenger.com
 .clasporno.org
 .classicnike.com
@@ -3037,10 +3087,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .clco.cc
 .clearasil.cn
 .clearlinux.org
+.clearpool.finance
 .click-url.com
 .clickserve.cc-dt.com
 .clickserver.googleads.com
-.clientflow.apple.com.akadns.net
 .clincha.cn
 .clinical-videos.com
 .clinicalkey.com
@@ -3064,6 +3114,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cloudcraze.com
 .cloudcredibility.com
 .cloudflare-dns.com
+.cloudflare-ech.com
+.cloudflare-esni.com
+.cloudflare-gateway.com
 .cloudflare-quic.com
 .cloudflare.net
 .cloudflareaccess.com
@@ -3072,6 +3125,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cloudflareclient.com
 .cloudflareinsights.com
 .cloudflareok.com
+.cloudflarepartners.com
+.cloudflareportal.com
 .cloudflarepreview.com
 .cloudflareresolve.com
 .cloudflaressl.com
@@ -3082,6 +3137,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cloudflarewarp.com
 .cloudfront-test.cn
 .cloudfront.cn
+.cloudfront.com
 .cloudhealthtech.com
 .cloudinary.com
 .cloudinary.net
@@ -3095,6 +3151,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cloudyzgirl.com
 .cloupia.com
 .cloupia.net
+.clubhouse.com
 .clubseventeen.com
 .clubsweethearts.com
 .clubtubes.com
@@ -3131,9 +3188,12 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .codethemicrobit.com
 .codivorexxx.com
 .coedcherry.com
+.coinalyze.net
 .coinbase.com
 .coincheck.com
+.coindesk.com
 .coinglass.com
+.coinmap.org
 .coinone.co.kr
 .coinonecore.com
 .coinonecorp.com
@@ -3178,7 +3238,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .computingreviews.com
 .comsoc.org
 .conair.me
-.configuration.apple.com.akadns.net
 .connect-in-canada.com
 .connectcommerce.cn
 .connectcommerce.info
@@ -3206,6 +3265,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .coova.com
 .coova.net
 .coova.org
+.copilot.microsoft.com
 .copro.pw
 .coqnu.com
 .corbinfisher.com
@@ -3274,6 +3334,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .crit-staging.com
 .crmdynint-gcc.com
 .crmdynint.com
+.cromite.org
 .crossborderexpansion.com
 .crossfitfirestone.com
 .crossmediapanel.com
@@ -3283,6 +3344,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .crr.com
 .cruel-furies.com
 .crustwebsites.net
+.crypto.com
 .cryptocompare.com
 .crystalgunnsworld.com
 .crystalmiss.com
@@ -3312,6 +3374,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cuckporn.com
 .cuckvideos.com
 .cuckwatchingwife.com
+.cuckwimp.com
 .cuebic.biz
 .cuffiesaldi.com
 .cultoferotica.com
@@ -3321,6 +3384,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cumshotlist.com
 .cumswappingsis.com
 .cumteenporn.com
+.cunhua.pics
 .cuntempire.com
 .cuntwars.com
 .cups.org
@@ -3347,6 +3411,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .cyber-bay.info
 .cyber-bay.org
 .cybermondaybeats4sale.com
+.cyberx.com
 .cygwin.com
 .cylink.pro
 .cylink0122.icu
@@ -3405,6 +3470,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .darwinsource.com
 .darwinsource.org
 .darwinsourcecode.com
+.dasaob.online
 .dashwood360.com
 .dastanhisexy.cc
 .dat.foundation
@@ -3427,7 +3493,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dcard.link
 .dcocsp.cn
 .dctbeatsbydre.com
-.dd-cdn.origin-apple.com.akadns.net
 .ddd-smart.net
 .ddg.co
 .dditsadn.com
@@ -3442,6 +3507,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .debank.com
 .debian.org
 .debugproject.com
+.decentr.net
 .dechamora.com
 .decorativemodels.com
 .decrypt.day
@@ -3472,6 +3538,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dependabot.com
 .deps.dev
 .deps.info
+.deribit.com
 .derpibooru.org
 .desertbmw.com
 .designeriphonescases.com
@@ -3696,6 +3763,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dlsitenews.com
 .dlsitestudio.com
 .dlyoutube.com
+.dm-event.net
 .dmed.technology
 .dmm-extension.com
 .dmmapis.com
@@ -3736,6 +3804,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dnset.com
 .dnsvisa.com
 .dnvod.tv
+.dnvodcdn.me
 .do.co
 .dobbyporn.com
 .doceapower.com
@@ -3764,6 +3833,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dollarphotosclub.com
 .dollnight.com
 .domywife.com
+.donatecarsoh.org
 .dongtaiwang.com
 .donkeykongcountryreturns.com
 .donkparty.com
@@ -3782,6 +3852,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dotfacebook.net
 .dotfreesex.com
 .dotherex.com
+.dothq.org
 .doubleclick-cn.net
 .doujin-eromanga.com
 .doujin-freee.com
@@ -3914,6 +3985,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dumpxxx.net
 .dungeonkeeper.cn
 .dungeonkeeper.com
+.duolingo.com
 .duoweiweek.com
 .durex-shopline.com
 .durex.com
@@ -3937,6 +4009,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .dweb.link
 .dx9527.cc
 .dxyav.co
+.dydx.exchange
 .dykycl.com
 .dynacw.com
 .dynafleetonline.com
@@ -4156,6 +4229,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .edditstatic.com
 .edengay.net
 .edge-skype-com.s-0001.s-msedge.net
+.edgedatg.com
 .edgefonts.net
 .edgemeplease.com
 .edisebay.com
@@ -4255,6 +4329,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .entrustdatacard.com
 .epicbrowser.com
 .epicgames.com
+.epicgames.dev
 .epicreads.com
 .epigeum.com
 .epikporn.com
@@ -4420,6 +4495,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .exxxtra.net
 .exxxtrasmall.com
 .exxxtrasmall1.com
+.f-dro1d.org
+.f-droid.com
 .f-droid.org
 .f6988.com
 .faacebok.com
@@ -4691,7 +4768,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .famousnudes.com
 .famouspornstars.com
 .fanaken.com
-.fanbox.cc
 .fandango.com
 .fanfox.net
 .fangsung.com
@@ -4699,7 +4775,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fanleakstoday.com
 .fanqianglu.com
 .fans-here.com
+.fans17.com
 .fansnudes.com
+.fansone.co
 .fansta.me
 .fansteek.com
 .fantasiasguatemala.com
@@ -4764,6 +4842,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .favjapaneseporn.com
 .fawgaf.xyz
 .faycbok.com
+.fayuanbooks.com
 .fb.careers
 .fbacebook.com
 .fbbmarket.com
@@ -4799,6 +4878,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fcww0.com
 .fdacebook.info
 .fdiintelligence.com
+.fdroid.org
 .feacboo.com
 .feacbook.com
 .feacbooke.com
@@ -4812,6 +4892,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fececbook.com
 .fedoraforum.org
 .fedoramagazine.org
+.fedorapeople.org
 .fedoraproject.org
 .feedherfuckher.com
 .feet9.com
@@ -4843,6 +4924,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fffdm.com
 .fffucked.com
 .fflnk.net
+.fflogs.com
 .ffmpeg.org
 .ffotolia.com
 .ffprofile.com
@@ -4939,6 +5021,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .flirtyhoookup.com
 .fljmh.com
 .fljmh1.com
+.floorp.app
 .floppy-tits.com
 .flow.dev
 .flow.org
@@ -4963,6 +5046,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fontshop.com
 .fontsinuse.com
 .foofle.com
+.footprintdns.com
 .footseen.com
 .footstockings.com
 .forbes.com
@@ -5132,6 +5216,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fqcebook.com
 .fr-beatsbydrestore.com
 .fracebook.com
+.fragment.com
 .fragrancebay.com
 .francecasquebeatssolde.com
 .francemail.com
@@ -5158,6 +5243,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .freebigmovies.com
 .freebs.com
 .freebsd.org
+.freecamsfan.com
 .freecamstars.com
 .freecartoons.biz
 .freechatnow.com
@@ -5274,6 +5360,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .fundaiphone5s.com
 .fundfire.com
 .fundinginstitutional.com
+.fundingrates.xyz
 .fundpaypal.com
 .fundraisingwithfacebook.com
 .funimation.com
@@ -5334,12 +5421,17 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .gannett.com
 .gannettdigital.com
 .gao1.cc
+.gaofuwu.cc
 .garena.live
 .garenanow.com
 .garotaporno.com
 .garotoesperto.com
 .gastrointestinalexam.com
 .gate.cc
+.gatedata.org
+.gateimg.com
+.gateio.live
+.gateio.services
 .gateway.dev
 .gateway.pinata.cloud
 .gay0day.com
@@ -5464,12 +5556,15 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ggdiao.com
 .ggjav.com
 .ggoogle.com
+.ggpds.com
 .ggpht.cn
 .ggsrv.com
 .ghettotube.com
 .ghostgames.com
 .ghtv666.top
 .giantessbooru.com
+.giffgaff.com
+.giffgaff.design
 .gifnuki.com
 .gigabyte.cn
 .gigantits.com
@@ -5514,6 +5609,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .githubapp.com
 .githubassets.com
 .githubhackathon.com
+.githubnext.com
 .githubpreview.dev
 .githubstatus.com
 .githubuniverse.com
@@ -5690,6 +5786,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .gpstheseries.com
 .gputechconf.cn
 .gputechconf.com
+.gqzmnav.cc
 .gr-assets.com
 .grabhentai.com
 .grabpussy.com
@@ -5717,8 +5814,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .grupobmw.com
 .gscanada.info
 .gsccdn.com
-.gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
-.gspe19-cn.ls-apple.com.akadns.net
 .gstatic-cn.com
 .gstaticcnapps.cn
 .gsuite.com
@@ -5768,6 +5863,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .hadesex.com
 .haha888.xyz
 .haho.moe
+.haijiao.com
 .hairy-amateurs.com
 .hairy-beauty.com
 .hairy-women-pussy.net
@@ -5805,6 +5901,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .harpercollinsadvantage.com
 .harpercollinschristian.com
 .harpercollinsspeakersbureau.com
+.hashflow.com
 .hashicorp.com
 .haskell.org
 .haskellstack.org
@@ -5886,6 +5983,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .helloavgirls.com
 .hellokittybeats.com
 .hellosmartbook.com
+.hellporno.com
 .hellven.net
 .hentai-ani.me
 .hentai-archive.com
@@ -5931,6 +6029,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .hentaibar.com
 .hentaiblue.com
 .hentaibros.com
+.hentaicity.com
 .hentaicloud.com
 .hentaiclub.net
 .hentaicomics.life
@@ -5988,6 +6087,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .hentaisub.info
 .hentaitalk.com
 .hentaitk.com
+.hentaitokyo.com
 .hentaitube.online
 .hentaiverse.org
 .hentaivideos.net
@@ -6039,6 +6139,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .hiascend.cn
 .hibdontire.com
 .hiddenvoyeurspy.com
+.hiddify.com
 .hidive.com
 .hifacebook.info
 .hifiporn.fun
@@ -6050,6 +6151,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .highporn.net
 .hightopnikes.com
 .highwirepress.com
+.hihigv.com
 .hikunpeng.cn
 .hilostripper.com
 .himalaya.exchange
@@ -6065,6 +6167,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .hiswifepussy.com
 .hitbdsm.com
 .hitxhot.com
+.hjb246.top
+.hjb7e9.top
 .hk.file.myqcloud.com
 .hk1lib.org
 .hkbigman.net
@@ -6087,6 +6191,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .hlbelygl.com
 .hm.com
 .hmd.site
+.hmfby.com
 .hnalady.com
 .hobonichielog.com
 .hochi.news
@@ -6099,6 +6204,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .home-made-porn-movies.com
 .home-made-videos.com
 .home-sex-tapes.com
+.home-song.com
 .homealonemilfs.com
 .homedepot-static.com
 .homefuckingmovies.com
@@ -6108,6 +6214,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .homemadeanalporn.com
 .homemadefucktube.com
 .homemadepornclip.com
+.homemadeporntubes.com
 .homemadevids.net
 .homemoviestube.com
 .homephoneplus.com
@@ -6115,10 +6222,12 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .homepornbay.com
 .homepornking.com
 .homepornvideo.net
+.homesexmade.com
 .honawalaan.com
 .honestpornreviews.com
 .hongjie10.xyz
 .hongjie11.xyz
+.hongkongdollvideo.org
 .hongmaodan100.com
 .honkaistarrail.com
 .hoodamateurs.com
@@ -6354,6 +6463,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .huffpostbrasil.com
 .huffpostmaghreb.com
 .hugedildo.com
+.huggingface.co
 .huj-pizda.com
 .huloo.cc
 .hulu.jp
@@ -6419,6 +6529,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .iamakamai.net
 .iamremarkable.org
 .iana.org
+.iavnight.com
 .ib.metapix.net
 .ibb.co
 .ibeats-uk.com
@@ -6437,7 +6548,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ichigocandy.com
 .ichineseporn.com
 .icloud-apple.cn
-.icloud-cdn.icloud.com.akadns.net
 .icloud-content.com
 .icloud-isupport.com
 .icloud.com
@@ -6459,6 +6569,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .icloudsecure.net
 .icloudsetup.com
 .icuminside.com
+.idarkdoll.com
 .ideal-teens.com
 .idelreal.org
 .identrust.com
@@ -6467,6 +6578,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .idol-sagasukun.com
 .ids-apple.com
 .idservice.inc
+.idx.dev
 .ie10.com
 .ie11.com
 .ie8.co
@@ -6533,6 +6645,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .iijav.com
 .iirmll.com
 .ijavhd.com
+.ijavtorrent.com
+.ikanhm.xyz
+.ikanmh.xyz
 .ikea.cn
 .ikea.com
 .ikea.net
@@ -6573,8 +6688,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .imagecurl.com
 .imagecurl.org
 .imagepost.com
-.images.apple.com.akadns.net
-.images.apple.com.edgekey.net.globalredir.akadns.net
 .imageshack.com
 .imagetwist.com
 .imageworks.com
@@ -6651,18 +6764,17 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ingyenszexvideo.top
 .inhumanity.com
 .inikesneakers.com
-.init-p01md-lb.push-apple.com.akadns.net
-.init-p01st-lb.push-apple.com.akadns.net
-.init-s01st-lb.push-apple.com.akadns.net
 .init.shop
 .initiummall.com
 .initproducts.com
-.inkbunny.net
 .inkchoice.com
 .inkedravens.com
 .inlethd.com
 .innovations-i.com
 .inporn.com
+.inshot.cc
+.inshot.com
+.inshotapp.com
 .insidear.cn
 .insidefilms.com
 .insidemacintosh.com
@@ -6807,10 +6919,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .ipfs.eth.aragon.network
 .ipfs.fleek.co
 .ipfs.runfission.com
+.ipfs.tech
 .iphine.com
 .iphone-cd.com
 .iphone-cn.com
-.iphone-ld.origin-apple.com.akadns.net
 .iphone-sh.com
 .iphone-vip1.com
 .iphone-vip2.com
@@ -6869,6 +6981,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .iromod91.info
 .irotv301.top
 .irribay.com
+.isbgpsafeyet.com
 .isca-speech.org
 .ischool.com
 .isfocus.net
@@ -6899,7 +7012,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .itunbes.com
 .ituneas.com
 .itunes-apple.cn
-.itunes-apple.com.akadns.net
 .itunes-radio.net
 .itunes.co
 .itunes.com
@@ -7111,6 +7223,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .jinnaju.com
 .jinsilubanzhao.com
 .jitsi.org
+.jiuse.icu
 .jiuse904.com
 .jiuse905.com
 .jiuzhouyihuo.com
@@ -7123,8 +7236,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .jjaaxyz.com
 .jjdong7.com
 .jkbeats.com
+.jkf.net
 .jkface.net
 .jm98.cc
+.jmcomic.ltd
 .jmcomic.me
 .jmcomic.mobi
 .jmcomic.moe
@@ -7133,6 +7248,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .jmcomic1.mobi
 .jmcomic2.moe
 .jmlr.org
+.jmvbt.com
 .jneurosci.org
 .joanabliss.com
 .jodic-forum.org
@@ -7205,6 +7321,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .k9vidz.com
 .kaamuu.com
 .kaggle.com
+.kaggle.net
 .kaggleusercontent.com
 .kairakudoujin.net
 .kakaocorp.com
@@ -7213,6 +7330,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .kamababa.com
 .kamisama-maeda-lab.com
 .kampalaexclusiveescorts.com
+.kanav.info
 .kanporno.com
 .kaob3.xyz
 .karinahart.com
@@ -7248,6 +7366,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .kidsnikeshoes.com
 .kijijidns.cn
 .kikdirty.com
+.killcovid2021.com
 .kilmeadeandfriends.com
 .kimogirl.cc
 .kimosex.com
@@ -7280,17 +7399,20 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .kismia.com
 .kisscos.net
 .kissjav.com
+.kiwibrowser.com
 .kjj05.cn
 .kk.stream
 .kkbox.com.tw
 .kkfcc03.com
 .kkff2484.live
+.kkiah.com
 .kktix.com
 .kktv.com.tw
 .kktv.me
 .klik.me
 .kmc-av.com
 .kmdhyy.com
+.kmeleonbrowser.org
 .kmff17.com
 .knovel.com
 .knoxemm.com
@@ -7309,7 +7431,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .koskade.com
 .kostenlosepornoclips.com
 .kotlinlang.org
+.kouwobb.com
 .kphimsex.net
+.kpht85.com
 .krakenjs.com
 .krhentai.com
 .kristenbjorn.com
@@ -7445,6 +7569,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .liboggirls.net
 .librarylovefest.com
 .libraryofthumbs.com
+.librewolf.net
 .libsolutions.app
 .libsolutions.net
 .licdn.cn
@@ -7586,6 +7711,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .lovesexdurex.cn
 .lovesexdurex.com
 .lovethiscity.com
+.lovex.life
 .lowergiseries.com
 .lowiro.com
 .lp99.pw
@@ -7599,7 +7725,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .lspimg.com
 .lss55.com
 .ltube.life
+.lu2100.com
+.lu2200.com
 .lu23.com
+.lu2300.cc
 .lua.org
 .luanlunmv.cc
 .lubetube.com
@@ -7670,8 +7799,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .maddenseason.info
 .maddenseason.net
 .maddenseason.org
+.madhomemadeporn.com
 .madou.club
 .madouav.one
+.madouqu.com
 .madouzx.monster
 .madouzx.top
 .madpeople.net
@@ -7724,6 +7855,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .mangoporn.net
 .mangotporn.com
 .manhuabika.com
+.manhuagui.com
 .manhub.com
 .manhunt.net
 .manhuntdaily.com
@@ -7741,6 +7873,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .manyvids.com
 .mapbox.cn
 .mapbox.com
+.maple.finance
 .mariadb.org
 .marioandluigidreamteam.com
 .mariobroswii.com
@@ -7772,6 +7905,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .masalladeloslimites.com
 .mashaalradio.com
 .maskedsingerfox.com
+.massage-in-taipei.com
 .massagerepublic.com
 .masseffect.com
 .masseffectarchives.com
@@ -7841,6 +7975,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .mdn.dev
 .mdn.mozit.cloud
 .mdnkids.com
+.mdnplay.dev
+.mdnyalp.dev
 .mdpi.com
 .me-gay.com
 .meadjohnson.com
@@ -7885,17 +8021,18 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .meridian.net
 .messengerdevelopers.com
 .messytube.com
-.mesu-cdn.apple.com.akadns.net
-.mesu-china.apple.com.akadns.net
 .met-nude.com
 .meta.com
 .metacloud.com
 .metacpan.org
+.metalpha.finance
 .metaporn.com
 .metartnetwork.com
 .metcams.com
 .metrotoons.com
 .meuhentai.com
+.mexc.com
+.mexcsensors.com
 .mfg-inspector.com
 .mgmt-azure-api.cn
 .mgo-images.com
@@ -7979,6 +8116,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .microsoftsilverlight.org
 .microsoftsiteselection.com
 .microsoftsqlserver.com
+.microsoftstart.com
 .microsoftstore.com
 .microsoftstream.com
 .microsoftteams.com
@@ -8021,6 +8159,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .milofetch.com
 .mimei.store
 .mimi22.top
+.minbrowser.org
 .mindgeek.com
 .mindmeld.com
 .mindspore.cn
@@ -8148,6 +8287,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .mm9c63ae.xyz
 .mmaaxx.com
 .mmdnn.com
+.mmgy.cc
 .mmonsterheadphones.net
 .mmtv.life
 .mncmsidlab1.cn
@@ -8278,6 +8418,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .monstersdebea.com
 .monstersexporn.net
 .monstershopcheapbeats.net
+.monthlyav.com
 .moodstocks.com
 .moozporn.com
 .morazzia.com
@@ -8314,6 +8455,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .moxing.mobi
 .moxing.news
 .moystoys.com
+.mozgcp.net
 .mozilla.com
 .mozilla.community
 .mozilla.net
@@ -8393,14 +8535,17 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .muncloud.dog
 .muryouav.net
 .musclegirlflix.com
+.mushroomtrack.com
 .musicbay.net
 .musickit.net
 .musixmatch.com
 .muthead.com
 .muyzorras.com
 .mvk.com
+.mwcu00.com
 .mwhentai.net
 .mxmcdn.net
+.mxshm.site
 .my-enema.com
 .my-magazine.me
 .my13la.com
@@ -8413,6 +8558,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .my9nj.com
 .myaccountglobalcash.com
 .myamateurgirls.net
+.myamateurtv.com
 .myanmar-porn.com
 .myappleid.com
 .myatos.net
@@ -8496,6 +8642,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .myminiso.com
 .mymmode.com
 .mymusclevideo.com
+.mynetname.net
 .mynike.com
 .myoctocat.com
 .mypearson.com
@@ -8511,6 +8658,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .mypornvid.fun
 .mypornwap.fun
 .myq2.com
+.myqnapcloud.com
 .myrewardzone.com
 .myrimmingporn.com
 .myrz.com
@@ -8634,6 +8782,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .netarabic.com
 .netfapx.com
 .netflav1.com
+.netflav5.com
 .netflixdnstest0.com
 .netflixdnstest1.com
 .netflixdnstest10.com
@@ -8653,6 +8802,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .netpornsex.com
 .netpornsex.net
 .netsolssl.com
+.netsurf-browser.org
 .nettyinternet.com
 .netvideogirls.com
 .netvigator.com
@@ -8754,6 +8904,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .nike-us.com
 .nike-usa.com
 .nike.cn
+.nike.host
 .nike.shop
 .nike.xn--hxt814e
 .nike0594.com
@@ -8884,6 +9035,12 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .nikezoom.com
 .nikkan-gendai.com
 .nikkansports.com
+.nikke-de.com
+.nikke-en.com
+.nikke-fr.com
+.nikke-jp.com
+.nikke-kr.com
+.nikke-sea.com
 .nikkei4946.com
 .nineteentube.com
 .ninpu.cyou
@@ -8973,6 +9130,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .nudekenya.com
 .nudelive.com
 .nudematurewomenpics.com
+.nudemilfporn.com
 .nudes7.com
 .nudespree.com
 .nudeteen.org
@@ -8988,6 +9146,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .nudevista.vip
 .nudewifeporn.com
 .nudewomenpics.net
+.nudify.online
 .nudistbeachporn.com
 .nudistic.com
 .nudistlog.com
@@ -9030,6 +9189,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .o365weve-dev.com
 .o365weve-ppe.com
 .o365weve.com
+.oaistatic.com
+.oaiusercontent.com
 .oanencore.com
 .oath.cloud
 .oath.com
@@ -9039,7 +9200,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .obutsumania.com
 .ocbmwdealers.com
 .ocsp-certum.com
-.ocsp-lb.apple.com.akadns.net
 .ocsp-responder.com
 .oculus-china.com
 .oculus2014.com
@@ -9085,6 +9245,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .oldje.com
 .olehd.com
 .olelive.com
+.olemovienews.com
 .olevodtv.com
 .oli-school.com
 .omafotze.com
@@ -9113,6 +9274,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .onefifteen.net
 .onefifteen.org
 .onejapanese.com
+.onekey-asset.com
+.onekeycn.com
 .onepornlist.com
 .onesiterip.com
 .oneworldmanystories.com
@@ -9154,6 +9317,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .onsaletrend.com
 .onstream.cc
 .onxxxtube.com
+.onxxxvideo.com
 .ooni.org
 .op7979.com
 .openamt.com
@@ -9166,6 +9330,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .opengraphprotocol.org
 .opengw.net
 .openjsf.org
+.openlibrary.org
 .openmaps.org
 .openresty.org
 .opensource.guide
@@ -9209,9 +9374,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .orsm.net
 .orzqwq.com
 .osakamotion.net
-.oscdn.origin-apple.com.akadns.net
 .osdn.net
 .osiri-suki-club.com
+.osl.com
 .osm.org
 .osmfoundation.org
 .ospray.net
@@ -9234,6 +9399,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .otaku-168.com
 .otaku18a.info
 .otaku55.xyz
+.otakuboo.com
 .otbm.com
 .otokonokoland.com
 .oudoll.com
@@ -9279,6 +9445,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .page2rss.com
 .page3.com
 .pagecdn.com
+.pages.dev
 .pagespeedmobilizer.com
 .pageview.mobi
 .pahabicilemezsurprizler.com
@@ -9295,6 +9462,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .paisapay.info
 .pakistanporntube.net
 .palcomix.com
+.palemoon.org
 .palestineremix.com
 .pali.ltd
 .panasonic.cn
@@ -9305,6 +9473,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .pantswalker.net
 .paofu.cloud
 .paofuyun.me
+.paon.site
 .papalah.com
 .paradisehotelquizfox.com
 .paragon.com
@@ -9323,6 +9492,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .pascherbeatsmonster.com
 .pashtovoa.com
 .pasionmujeres.com
+.paskoocheh.com
 .passion-hd.com
 .passport.net
 .patentgold.net
@@ -9558,6 +9728,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .physiology.org
 .piapro.net
 .picacg2022.com
+.picacgp.com
+.picacgy.com
 .picacn.xyz
 .picacomic.xyz
 .picasa.com
@@ -9577,6 +9749,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .pifpafarabia.com
 .pigav.com
 .pikabu.monster
+.pikpak.me
+.pikpakdrive.com
 .pillbeatsblackfridaysale.com
 .pinduck.com
 .pinflix.com
@@ -9692,6 +9866,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .poopee-puke.com
 .poopeegirls.com
 .popcap.com
+.popporn-world.com
 .porcore.com
 .poringa.net
 .porkahd.co
@@ -9738,6 +9913,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .pornbase.org
 .pornbest.org
 .pornbit.cc
+.pornbl.com
 .pornbozz.com
 .pornbraze.com
 .pornbrb.com
@@ -9940,6 +10116,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .pornpaw.com
 .pornper.com
 .pornpics.com
+.pornpost.net
 .pornpros.com
 .pornprosnetwork.com
 .pornproxy.app
@@ -10091,8 +10268,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .privatecasting-x.com
 .privateclassics.com
 .privatemarketplaces.net
+.privatevoyeurvideos.com
 .proctoscopeexam.com
-.prod-support.apple-support.akadns.net
 .prodrive-japan.com
 .profreeporno.com
 .projectapex.com
@@ -10145,8 +10322,10 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .pugpig-stage.com
 .pugpig.com
 .pullstring.net
+.pulsebrowser.app
 .punishbang.com
 .punishworld.com
+.purelov5.com
 .purelyceleb.com
 .purenudism.com
 .puresexmovies.com
@@ -10195,12 +10374,16 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .qinav.com
 .qingenporn.net
 .qingse.one
+.qise100.com
 .qkjuyet.com
+.qlinkto.cn
 .qmap.pub
 .qmov.com
 .qmov.net
 .qmttqg3k.me
+.qnap.com
 .qombol.com
+.qooqlevideo.com
 .qorno.com
 .qprize.com
 .qpx.googleflights.net
@@ -10238,6 +10421,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .qumingwz.com
 .quotable.com
 .quovadisglobal.com
+.qutebrowser.org
 .qwant.com
 .qwapi.com
 .r-project.org
@@ -10276,6 +10460,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .rarbgto.org
 .rarbgunblock.com
 .rarbgunblock.org
+.rarbgunblocked.org
 .rarbgway.org
 .raspberrypi.org
 .raspbian.org
@@ -10376,6 +10561,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .redditmail.com
 .redfaptube.com
 .redgifs.com
+.redhat.org
 .redislabs.com
 .redkix.com
 .redlightcenter.com
@@ -10444,6 +10630,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .riotgames.net
 .riotpin.com
 .riotpoints.com
+.ripple.com
 .risextube.com
 .rk.com
 .rlczdo.xyz
@@ -10472,12 +10659,14 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .rootsigning.com
 .rosemarydoll.com
 .rou.video
+.roughebonysex.com
 .roughman.net
 .route53.cn
 .routerboard.com
 .routledgehandbooks.com
 .royalcams.com
 .royalsocietypublishing.org
+.rpglogs.com
 .rplay.live
 .rpmfusion.org
 .rprimelab.com
@@ -10522,6 +10711,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .s81c.com
 .s8ds5gfm.xyz
 .sa-saopaulo.myqcloud.com
+.saasexch.com
 .sabuibo.net
 .sacduc.com
 .sacredhentai.com
@@ -10559,6 +10749,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sanspo.com
 .sanvaras.com
 .sanwapub.com
+.saobjpg.com
 .saoni91.xyz
 .saonidh01.cc
 .sapphicerotica.com
@@ -10568,6 +10759,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sarennasworld.com
 .satan18av.com
 .satnym.com
+.satoshilabs.com
+.satv01.me
 .savitabhabhi.com
 .savitabhabhi.vip
 .savitahd.net
@@ -10648,6 +10841,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .seaporn.org
 .secomtrust.net
 .secret-flirt-hub.com
+.secretubes.com
 .sectigo.com
 .secure-paypal.info
 .securepaypal.info
@@ -10663,6 +10857,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sehuatang.net
 .seiroganmania.com
 .seiron-sankei.com
+.sekai.colorfulpalette.org
 .selectanescort.com
 .selectyourgame.com
 .selfloversworld.com
@@ -10712,6 +10907,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sex021.net
 .sex3.mobi
 .sex4arabxxx.com
+.sex588.net
 .sexalarab.com
 .sexandsplash.com
 .sexanimalvideos.com
@@ -10758,6 +10954,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sexindians.cc
 .sexiranian.party
 .sexjk.com
+.sexkomix2.com
 .sexkorea.net
 .sexlikereal.com
 .sexmadeathome.com
@@ -10803,6 +11000,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sextubespot.com
 .sextubexxl.com
 .sextubish.com
+.sextw.net
 .sexu.com
 .sexualhentai.net
 .sexuria.com
@@ -10894,14 +11092,18 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .shemaletrannypics.com
 .shemaletube.pro
 .shemaletubevideos.com
+.shenshi-cha.com
+.shenyuncreations.com
 .shenzhoufilm.com
 .shequ8.cam
 .shequdaohang.com
 .shesfreaky.com
 .sheshaft.com
 .shianyuanfang.com
+.shibashuwu.net
 .shikorina.net
 .shinhangmc.com
+.shiroutoav.net
 .shit-porn.net
 .shithd.com
 .shitjav.com
@@ -10976,6 +11178,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sing68.com
 .singlelogin.app
 .singlelogin.me
+.singlelogin.site
 .singtaobooks.com
 .singtaola.com
 .singtaonewscorp.com
@@ -11009,11 +11212,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .skyassets.com
 .skydweller.cn
 .skyoceanrescue.com
-.skype-edf.akadns.net
 .skype.net
 .skypeassets.com
 .skypeassets.net
-.skypedata.akadns.net
 .skyporn.online
 .skysports.com
 .skysportsonline.com
@@ -11121,6 +11322,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sonypicturestelevision.com
 .sonypicturestelevisiongames.com
 .soolakhi.com
+.soporn.com
 .sora6.com
 .sorairi.info
 .sorcerersarena.com
@@ -11211,9 +11413,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sssjav.com
 .sssuo1.xyz
 .ssx3.com
-.st.dl.bscstorage.net
-.st.dl.eccdnx.com
-.st.dl.pinyuncloud.com
 .stackage.org
 .stackapps.com
 .stackauth.com
@@ -11252,6 +11451,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .starott.com
 .starplus.com
 .starsze.icu
+.start.com
 .startpath.com
 .startupjournal.com
 .startupschool.org
@@ -11288,12 +11488,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .stockagainstphotography.com
 .stocking-tease.com
 .stockingfetishvideo.com
-.stocks-sparkline-lb.apple.com.akadns.net
 .stonefoxlingerie.com
 .stonefoxproductions.com
 .store-bridgestonesports.com
-.store.apple.com.edgekey.net.globalredir.akadns.net
-.store.storeimages.apple.com.akadns.net
 .storesense.com
 .storiesonline.net
 .storyful.com
@@ -11369,7 +11566,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .superuser.com
 .supjav.com
 .supplybestjerseys.com
-.support-china.apple-support.akadns.net
 .supportfacebook.com
 .supremacy.com
 .supremacy.net
@@ -11395,8 +11591,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .swapsmut.com
 .sway-cdn.com
 .sway.com
-.swcatalog-cdn.apple.com.akadns.net
-.swdist.apple.com.akadns.net
 .sweetadult-tube.com
 .sweetmlif.net
 .sweetsext.com
@@ -11427,7 +11621,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .swjfo.com
 .swoosh.com
 .swpr.livedoor.blog
-.swscan-cdn.apple.com.akadns.net
 .swtor.com
 .swtor.net
 .sxarab.top
@@ -11465,6 +11658,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .taptotokyo.com
 .taradinhos.com
 .targetimg1.com
+.tasexy.com
 .tasexy.top
 .tastyblacks.com
 .tati-log.com
@@ -11585,6 +11779,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .thebeatsbydre.net
 .thebeatsheadphonesale.com
 .thebestfetishsites.com
+.theblock.co
 .thebondagefiles.com
 .thecamdude.com
 .thecandidbay.com
@@ -11653,6 +11848,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .thepornmap.com
 .thepornscat.com
 .theporntoplist.com
+.theporny.com
 .thesafeporn.com
 .thesexbible.com
 .thesffblog.com
@@ -11685,6 +11881,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .thomsonreutersmexico.com
 .thottok.com
 .thotvids.com
+.threads.net
 .thrixxx.com
 .thtmod1.com
 .thumbnailseries.com
@@ -11708,11 +11905,13 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .tiffany-towers.com
 .tig-ol-bitties.live
 .tiktok.com
+.tiktokcdn-us.com
 .tiktokcdn.com
 .tiktokv.com
 .timelinestoryteller.com
 .timesmembership.com
 .timestalks.com
+.timi1.me
 .timo0.com
 .tinhduc.org
 .tiny4k.com
@@ -11729,6 +11928,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .tkb2233.life
 .tkbqf2.life
 .tktube.com
+.tmei-taoyuan.com
 .tnatryouts.com
 .tnntoday.com
 .tnt-ea.com
@@ -11737,6 +11937,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .tokyo-tosho.net
 .tokyomotion.com
 .tokyomotion.net
+.tokyonightstyle.com
 .tokyoporns.com
 .tokyotosho.info
 .tomatespodres.com
@@ -11885,6 +12086,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .tsyum.com
 .tteshop.com
 .ttvnw.net
+.ttwstatic.com
 .tube-pornomovs.com
 .tube-sex-videos.com
 .tube188.com
@@ -11929,12 +12131,14 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .turbogvideos.com
 .turborepo.org
 .turbotwitter.com
+.turkeyblocks.org
 .tushy.com
 .tvappstore.net
 .tvbanywhere.com
 .tvbusa.com
 .tvbweekly.com
 .tvpromise.com
+.tw985.com
 .twavking.com
 .twcomix.com
 .twgreatnews.com
@@ -11961,6 +12165,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .twitteroauth.com
 .twitterrific.com
 .twlegs.com
+.twline5.com
 .twnextdigital.com
 .twoo.com
 .twporn.net
@@ -12010,6 +12215,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .uhub.com
 .uiporn.com
 .ujapanesesex.com
+.ujizzcn.com
 .uk-exhibitionist.com
 .ukipad.com
 .ukwhoswho.com
@@ -12098,6 +12304,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .uverse.com
 .uwpcommunitytoolkit.com
 .uxxxporn.com
+.v-av.com
 .v-has.com
 .v2ph.com
 .v2ray.cool
@@ -12111,7 +12318,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .vaginapics.pro
 .vagrantcloud.com
 .vagrantup.com
-.valid.origin-apple.com.akadns.net
 .valoryirene.com
 .valuegb.com
 .vanish.cn
@@ -12250,6 +12456,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .vimeostatus.com
 .vintage-erotica-forum.com
 .vintageamateurporn.com
+.vintagehomemadesex.com
 .vintagemedicalpictures.com
 .vintagexxxfilms.com
 .vip-beats.com
@@ -12266,6 +12473,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .virsto.net
 .virtualearth.net
 .virtualpartyworld.com
+.virtualporn.com
 .virtualrealgay.com
 .virtualrealporn.com
 .virtualrealtrans.com
@@ -12412,6 +12620,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .voxfieldguide.com
 .voxmedia.com
 .voxops.net
+.voyeureye.com
 .voyeurhit.com
 .voyeurhouse.com
 .voyeurmonkey.com
@@ -12448,15 +12657,19 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .vulgarx.com
 .vxnbbrs.xyz
 .vxxsred.xyz
+.w-mt.co
 .w.wiki
 .w0512.com
 .w6un.com
 .wa.me
+.waisongcha.com
 .waittingfor001.weebly.com
 .wal-mart.com
 .wal.co
 .wallet.com
+.walletconnect.com
 .walmart-content.com
+.walmart.cn
 .walmart.com
 .walmart.pharmacy
 .walmartimages.com
@@ -12467,6 +12680,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .wankzvr.com
 .wanokokorosoh.com
 .want-media.com
+.want520.com
 .wantblogger.com
 .wantmywife.com
 .waplog.com
@@ -12503,7 +12717,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .wdc.com
 .wdfiles.com
 .weareebay.com
-.weather-data.apple.com.akadns.net
 .weav.xyz
 .web-instagram.net
 .web.app
@@ -12521,6 +12734,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .webkit.org
 .webkitgtk.org
 .webmoneyinfo.com
+.webnovel.com
 .webobjects.com
 .webobjects.net
 .webofscience.com
@@ -12538,6 +12752,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .wetandpuffy.com
 .wetchicks.org
 .wetnhorny.com
+.wetsextube.com
 .wfm.com
 .what-fan.net
 .whatboyswant.com
@@ -12588,6 +12803,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .whynotbi.com
 .wife-home-videos.com
 .wifehomeporn.com
+.wifeinlove.com
 .wifeinterracialfuck.com
 .wifeloversporn.com
 .wifemovies.net
@@ -12631,6 +12847,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .windowsuem.com
 .winhec.com
 .winhec.net
+.wintermute.com
 .winudf.com
 .wipower.com
 .wired.com
@@ -12722,7 +12939,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .www-facebook.com
 .www-paypal.info
 .www-sms-apple.com
-.www.apple.com.edgekey.net.globalredir.akadns.net
 .www.destinationurl.com
 .www.pxcc.com
 .www8-hp.com
@@ -12801,7 +13017,9 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .xcg123.com
 .xchina.co
 .xchina.fun
+.xcum.com
 .xda-cdn.com
+.xdaforums.com
 .xdir.vip
 .xdporner.com
 .xdsummit.com
@@ -12894,6 +13112,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .xn--r8jwklh769hk43amcfoyl3z3a.com
 .xn--ruq8a011kt6y.xn--hxt814e
 .xn--sgt856gbjl.cc
+.xn--sjqr38j.com
 .xn--tkry91n.com
 .xn--ubt498knmf.com
 .xn--uis17aj9kmuf.com
@@ -12959,10 +13178,13 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .xsela.cc
 .xshaker.net
 .xshr.online
+.xsijishe.com
+.xslist.org
 .xsrxpwvg.com
 .xstas.biz
 .xsvod.xyz
 .xsz-av.com
+.xtegvk.xyz
 .xtracloud.cn
 .xtubebdsm.com
 .xtubezoo.com
@@ -13037,6 +13259,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .xxxclub.club
 .xxxcomics.org
 .xxxdan.com
+.xxxdesi.cc
 .xxxdinotube.com
 .xxxengine.net
 .xxxfile.org
@@ -13141,6 +13364,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .yandex.org
 .yandex.ru
 .yandexcloud.net
+.yantaqu.com
 .yaohubaba.com
 .yaoimangaonline.com
 .yaoiotaku.com
@@ -13232,6 +13456,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .yourporngod.com
 .yoursigmoidoscopy.com
 .yourspeculumexam.com
+.yourupskirt.com
 .yourvoyeurvideos.com
 .yourwifemymeat.com
 .yourxxxvideos.pro
@@ -13306,6 +13531,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .yunlaopo.cc
 .yunlaopo.com
 .yunlaopo.net
+.yusercontent.com
 .yusjb.com
 .ywbclx.top
 .ywoos.com
@@ -13384,7 +13610,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .zoofilianet.com
 .zoohun.com
 .zoom.com
-.zoom.us
 .zoomobileporn.com
 .zoophilist.net
 .zooporn.pro
@@ -13430,14 +13655,11 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .12vpn.net
 .1337x.to
 .138.com
-.14.102.250.18
-.14.102.250.19
 .141hongkong.com
 .141jj.com
 .141tube.com
 .1688.com.au
 .173ng.com
-.174.142.105.153
 .177pic.info
 .17t17p.com
 .18board.com
@@ -13517,17 +13739,11 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .64wiki.com
 .66.ca
 .666kb.com
-.67.220.91.15
-.67.220.91.18
-.67.220.91.23
-.69.65.19.160
 .6do.news
 .6park.com
 .6parkbbs.com
 .6parker.com
 .6parknews.com
-.7-zip.org
-.72.52.81.22
 .7capture.com
 .7cow.com
 .8-d.com
@@ -13722,6 +13938,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .answering-islam.org
 .antd.org
 .anthonycalzadilla.com
+.anthropic.com
 .anti1984.com
 .antichristendom.com
 .antiwave.net
@@ -13857,6 +14074,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .backchina.com
 .backpackers.com.tw
 .backtotiananmen.com
+.bad.news
 .badiucao.com
 .badjojo.com
 .badoo.com
@@ -13932,6 +14150,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .berlinerbericht.de
 .berm.co.nz
 .bestforchina.org
+.bestgore.com
 .bestvpn.com
 .bestvpnanalysis.com
 .bestvpnserver.com
@@ -14125,6 +14344,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .buzzhand.com
 .buzzhand.net
 .buzzorange.com
+.buzzsprout.com
 .bvpn.com
 .bwbx.io
 .bwgyhw.com
@@ -14259,6 +14479,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
+.chatgpt.com
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
@@ -14379,11 +14600,12 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .civiliangunner.com
 .civilmedia.tw
 .civisec.org
-.cjb.net
+.civitai.com
 .ck101.com
 .cl.ly
 .clarionproject.org
 .classicalguitarblog.net
+.claude.ai
 .clb.org.hk
 .cleansite.biz
 .cleansite.info
@@ -14396,6 +14618,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .clinica-tibet.ru
 .clipfish.de
 .cloakpoint.com
+.cloud.cupronickel.goog
 .cloudcone.com
 .cloudflare-ipfs.com
 .cloudflare.com
@@ -14678,6 +14901,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .djangosnippets.org
 .djorz.com
 .dl-laby.jp
+.dler.io
 .dlive.tv
 .dlsite.com
 .dlsite.jp
@@ -14999,6 +15223,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .famunion.com
 .fan-qiang.com
 .fanatical.com
+.fanbox.cc
 .fandom.com
 .fangbinxing.com
 .fangeming.com
@@ -15482,6 +15707,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .greenreadings.com
 .greenvpn.net
 .greenvpn.org
+.grindr.com
 .grotty-monday.com
 .gs-discuss.com
 .gsearch.media
@@ -15876,6 +16102,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .imb.org
 .imdb.com
 .img.ly
+.imgasd.com
 .imgchili.net
 .imgmega.com
 .imgur.com
@@ -15903,6 +16130,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .informer.com
 .ingress.com
 .initiativesforchina.org
+.inkbunny.net
 .inkui.com
 .inmediahk.net
 .innermongolia.org
@@ -16280,6 +16508,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .lfpcontent.com
 .lhakar.org
 .lhasocialwork.org
+.li.taipei
 .liangyou.net
 .liangzhichuanmei.com
 .lianyue.net
@@ -16463,6 +16692,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .matrix.org
 .matsushimakaede.com
 .matters.news
+.matters.town
 .mattwilcox.net
 .maturejp.com
 .maven.org
@@ -16616,6 +16846,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .mondex.org
 .money-link.com.tw
 .moneyhome.biz
+.monica.im
 .monitorchina.org
 .monitorware.com
 .monlamit.org
@@ -17111,7 +17342,6 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .paddleapi.com
 .padmanet.com
 .page.link
-.pages.dev
 .pagodabox.com
 .palacemoon.com
 .paldengyal.com
@@ -17765,6 +17995,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .sis001.us
 .site2unblock.com
 .site90.net
+.sitebro.tw
 .sitekreator.com
 .sitemaps.org
 .six-degrees.io
@@ -18350,6 +18581,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .torlock.com
 .torproject.org
 .torrentkitty.tv
+.torrentmac.net
 .torrentprivacy.com
 .torrentproject.se
 .torrenty.org
@@ -19055,6 +19287,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .xiaohexie.com
 .xiaolan.me
 .xiaoma.org
+.xiaomi.eu
 .xiaxiaoqiang.net
 .xiezhua.com
 .xihua.es
@@ -19266,6 +19499,8 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 .zonghexinwen.com
 .zonghexinwen.net
 .zoogvpn.com
+.zoom.us
+.zoomgov.com
 .zootool.com
 .zoozle.net
 .zophar.net

@@ -12,13 +12,13 @@ Tesla规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:22:21
+最后更新时间：2023-12-14 16:57:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 13  | 
-| TOTAL | 13  | 
+| DOMAIN-SUFFIX | 12  | 
+| TOTAL | 12  | 
 
 
 ## Shadowrocket 

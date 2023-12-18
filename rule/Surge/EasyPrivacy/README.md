@@ -17,55 +17,31 @@ AdBlock Plus EasyPrivacy，仅抽取DOMAIN-SUFFIX类型。
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:22:47
+最后更新时间：2023-12-14 16:58:09
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 18366  | 
-| IP-CIDR | 8  | 
-| TOTAL | 18374  | 
+| DOMAIN | 7  | 
+| DOMAIN-SUFFIX | 21903  | 
+| TOTAL | 21910  | 
 
 
 ## Surge 
 
 #### 使用说明
-- EasyPrivacy.list，请使用RULE-SET。
-- EasyPrivacy_Resolve.list，请使用RULE-SET。
 - EasyPrivacy_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
-- EasyPrivacy_Resolve.list与EasyPrivacy.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
+- EasyPrivacy_All.list与EasyPrivacy_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 
 #### 配置建议
-- EasyPrivacy.list、EasyPrivacy_Domain.list 共同使用。
-- EasyPrivacy_Resolve.list、EasyPrivacy_Domain.list 共同使用。
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- EasyPrivacy_All.list 单独使用。
+- EasyPrivacy_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 
 #### 规则链接
-**MASTER分支 (每日更新)**
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EasyPrivacy/EasyPrivacy.list
-
-**MASTER分支 CDN (每日更新)**
-
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Surge/EasyPrivacy/EasyPrivacy.list
-
-**MASTER分支 GHProxy (每日更新)**
-
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/EasyPrivacy/EasyPrivacy.list
-
-**RELEASE分支 (不定时更新)**
-
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/EasyPrivacy/EasyPrivacy.list
-
-**RELEASE分支CDN (不定时更新)**
-
-https://cdn.jsdelivr.net/gh/blackmatrix7/ios_rule_script@release/rule/Surge/EasyPrivacy/EasyPrivacy.list
-
-**RELEASE分支 GHProxy (不定时更新)**
-
-https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/EasyPrivacy/EasyPrivacy.list
-
 ## 子规则/排除规则
 
 

@@ -12,16 +12,16 @@
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:21:56
+最后更新时间：2023-12-14 16:56:51
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 1250  | 
+| DOMAIN-SUFFIX | 1251  | 
 | IP-CIDR | 53  | 
 | IP-CIDR6 | 1  | 
 | PROCESS-NAME | 1  | 
-| TOTAL | 1305  | 
+| TOTAL | 1306  | 
 
 
 ## Clash 
@@ -101,6 +101,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/alibaba.yaml
 - https://rules.kr328.app/alibaba-ads.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
+- https://ruleset.isagood.day/alibaba.conf
+- https://ruleset.isagood.day/alibaba_domain.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

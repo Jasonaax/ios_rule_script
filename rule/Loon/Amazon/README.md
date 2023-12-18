@@ -12,17 +12,17 @@ Amazon规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-06-05 02:11:37
+最后更新时间：2023-12-14 16:55:52
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 206  | 
+| DOMAIN-SUFFIX | 210  | 
 | IP-CIDR | 15  | 
 | URL-REGEX | 1  | 
 | USER-AGENT | 2  | 
-| TOTAL | 225  | 
+| TOTAL | 229  | 
 
 
 ## Loon 
@@ -77,7 +77,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Amazon.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Amazon.yaml
 - https://rules.kr328.app/amazon-ads.yaml
-- https://rules.kr328.app/amazon@cn.yaml
 - https://rules.kr328.app/amazon@ads.yaml
 - https://rules.kr328.app/amazon.yaml
 - https://rules.kr328.app/amazon-ads@ads.yaml

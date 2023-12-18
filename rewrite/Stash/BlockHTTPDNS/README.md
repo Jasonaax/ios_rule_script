@@ -12,18 +12,19 @@
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:24:23
+最后更新时间：2023-12-14 17:00:37
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 17  | 
-| IP-CIDR | 15  | 
+| DOMAIN | 20  | 
+| DOMAIN-SUFFIX | 1  | 
+| IP-CIDR | 19  | 
 | IP-CIDR6 | 4  | 
 | REJECT | 16  | 
-| MITM | 6  | 
-| FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 64  | 
+| MITM | 16  | 
+| FORCE-HTTP-ENGINE-HOSTS | 4  | 
+| TOTAL | 80  | 
 
 
 ## Stash 

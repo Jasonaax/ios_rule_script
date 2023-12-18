@@ -21,17 +21,17 @@
 
 ## 规则统计
 
-最后更新时间：2023-06-13 02:08:46
+最后更新时间：2023-12-18 02:09:54
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 11605  | 
-| DOMAIN-KEYWORD | 264  | 
-| DOMAIN-SUFFIX | 120934  | 
-| IP-CIDR | 251  | 
+| DOMAIN | 12443  | 
+| DOMAIN-KEYWORD | 302  | 
+| DOMAIN-SUFFIX | 130447  | 
+| IP-CIDR | 452  | 
 | URL-REGEX | 285  | 
-| TOTAL | 133339  | 
+| TOTAL | 143929  | 
 
 
 ## Loon 
@@ -128,6 +128,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Reject.yaml
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Adblock/Adblock.list
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/AdBlock.list
+- https://ruleset.isagood.day/reject.conf
+- https://ruleset.isagood.day/reject_domain1.conf
+- https://ruleset.isagood.day/reject_drop.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

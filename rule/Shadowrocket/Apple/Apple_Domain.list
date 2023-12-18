@@ -1,20 +1,13 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:18:45
-# DOMAIN: 7
-# DOMAIN-KEYWORD: 5
-# DOMAIN-SUFFIX: 1544
+# UPDATED: 2023-12-14 16:52:34
+# DOMAIN: 9
+# DOMAIN-KEYWORD: 7
+# DOMAIN-SUFFIX: 1549
 # IP-CIDR: 10
-# USER-AGENT: 7
-# TOTAL: 1573
-appldnld.apple.com.edgesuite.net
-apple-events.akamaized.net
-appleworldwidedeveloper.hb-api.omtrdc.net
-appleworldwidedeveloper.sc.omtrdc.net
-beatselectronicsllc.tt.omtrdc.net
-icons.axm-usercontent-apple.com
-p-events-delivery.akamaized.net
+# USER-AGENT: 23
+# TOTAL: 1598
 .100beatscheap.com
 .12diasdepresentesdeitunes.com
 .12diasderegalosdeitunes.cl
@@ -762,6 +755,7 @@ p-events-delivery.akamaized.net
 .casquemonsterbeatsbydre2013.com
 .casquesbeatsaudio.com
 .catalina.hk
+.cdn-apple-mapkit.com
 .cdn-apple.com
 .cheap-beats-by-dre.net
 .cheap-beatsbydre.com
@@ -863,6 +857,7 @@ p-events-delivery.akamaized.net
 .discountbeatsbydre-us.com
 .discountbeatsstore.com
 .discussionsapple.com
+.dispatcher.is.autonavi.com
 .dkbeatsbydre.com
 .dl-iphone.com
 .dot-mac.de
@@ -1010,6 +1005,7 @@ p-events-delivery.akamaized.net
 .ichat.co.in
 .icloud-apple.cn
 .icloud-content.com
+.icloud-content.com.cn
 .icloud-isupport.com
 .icloud-sandbox.com
 .icloud.ch
@@ -1250,6 +1246,7 @@ p-events-delivery.akamaized.net
 .lojaiphone.com.br
 .lovebeatsdr.com
 .lovemarca.com
+.ls.apple.com.edgesuite.net
 .luckyissue.com
 .lyzsxx.com
 .mac-mini.com
@@ -1413,6 +1410,7 @@ p-events-delivery.akamaized.net
 .onlyiphone5case.com
 .onsalekey.com
 .onsaletrend.com
+.organicfruitapps.com
 .outletbeatsshop.com
 .overapple.com
 .pascherbeatsmonster.com
@@ -1559,3 +1557,12 @@ p-events-delivery.akamaized.net
 .xn--ohq11k7pl25iyo8a.cn
 .xn--ruq8a011kt6y.xn--hxt814e
 .yourmonsterbeats.com
+appldnld.apple.com.edgesuite.net
+apple-events.akamaized.net
+appleworldwidedeveloper.hb-api.omtrdc.net
+appleworldwidedeveloper.sc.omtrdc.net
+beatselectronicsllc.tt.omtrdc.net
+e16991.b.akamaiedge.net
+icons.axm-usercontent-apple.com
+lookup-api.apple.com.edgekey.net
+p-events-delivery.akamaized.net

@@ -12,15 +12,15 @@
 
 ## 规则统计
 
-最后更新时间：2023-06-05 02:08:57
+最后更新时间：2023-12-16 02:11:32
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 14  | 
-| DOMAIN-SUFFIX | 18084  | 
+| DOMAIN | 20  | 
+| DOMAIN-SUFFIX | 21638  | 
 | IP-CIDR | 8  | 
-| TOTAL | 18106  | 
+| TOTAL | 21666  | 
 
 
 ## Surge 
@@ -31,9 +31,14 @@
 - Privacy_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- Privacy_All.list与Privacy_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - Privacy_Resolve.list与Privacy.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Privacy_All.list 单独使用。
+- Privacy_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - Privacy.list、Privacy_Domain.list 共同使用。
 - Privacy_Resolve.list、Privacy_Domain.list 共同使用。
 

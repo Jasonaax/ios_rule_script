@@ -1,25 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-31 02:12:14
+# UPDATED: 2023-12-15 02:13:02
 # DOMAIN: 11
-# DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 5881
-# IP-CIDR: 88
+# DOMAIN-KEYWORD: 29
+# DOMAIN-SUFFIX: 5892
+# IP-CIDR: 94
 # IP-CIDR6: 3
 # USER-AGENT: 9
-# TOTAL: 6023
-api.waqi.info
-aqi.aqicn.org
-assets-priconne-redive-us.akamaized.net
-chat.openai.com.cdn.cloudflare.net
-cloud.oracle.com
-cvws.icloud-content.com
-developer.apple.com
-openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-openaicomproductionae4b.blob.core.windows.net
-testflight.apple.com
-voice.telephony.goog
+# TOTAL: 6038
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -36,14 +25,11 @@ voice.telephony.goog
 .12vpn.net
 .1337x.to
 .138.com
-.14.102.250.18
-.14.102.250.19
 .141hongkong.com
 .141jj.com
 .141tube.com
 .1688.com.au
 .173ng.com
-.174.142.105.153
 .177pic.info
 .17t17p.com
 .18board.com
@@ -123,17 +109,11 @@ voice.telephony.goog
 .64wiki.com
 .66.ca
 .666kb.com
-.67.220.91.15
-.67.220.91.18
-.67.220.91.23
-.69.65.19.160
 .6do.news
 .6park.com
 .6parkbbs.com
 .6parker.com
 .6parknews.com
-.7-zip.org
-.72.52.81.22
 .7capture.com
 .7cow.com
 .8-d.com
@@ -195,6 +175,7 @@ voice.telephony.goog
 .addictedtocoffee.de
 .adelaidebbs.com
 .adguard.org
+.admob.com
 .adobe.com
 .adobedtm.com
 .adpl.org.hk
@@ -328,6 +309,7 @@ voice.telephony.goog
 .answering-islam.org
 .antd.org
 .anthonycalzadilla.com
+.anthropic.com
 .anti1984.com
 .antichristendom.com
 .antiwave.net
@@ -466,6 +448,7 @@ voice.telephony.goog
 .backchina.com
 .backpackers.com.tw
 .backtotiananmen.com
+.bad.news
 .badiucao.com
 .badjojo.com
 .badoo.com
@@ -541,6 +524,7 @@ voice.telephony.goog
 .berlinerbericht.de
 .berm.co.nz
 .bestforchina.org
+.bestgore.com
 .bestvpn.com
 .bestvpnanalysis.com
 .bestvpnserver.com
@@ -735,6 +719,7 @@ voice.telephony.goog
 .buzzhand.com
 .buzzhand.net
 .buzzorange.com
+.buzzsprout.com
 .bvpn.com
 .bwbx.io
 .bwgyhw.com
@@ -869,6 +854,7 @@ voice.telephony.goog
 .channelnewsasia.com
 .chaoex.com
 .chapm25.com
+.chatgpt.com
 .chatnook.com
 .chaturbate.com
 .checkgfw.com
@@ -989,11 +975,12 @@ voice.telephony.goog
 .civiliangunner.com
 .civilmedia.tw
 .civisec.org
-.cjb.net
+.civitai.com
 .ck101.com
 .cl.ly
 .clarionproject.org
 .classicalguitarblog.net
+.claude.ai
 .clb.org.hk
 .cleansite.biz
 .cleansite.info
@@ -1006,6 +993,7 @@ voice.telephony.goog
 .clinica-tibet.ru
 .clipfish.de
 .cloakpoint.com
+.cloud.cupronickel.goog
 .cloudcone.com
 .cloudflare-ipfs.com
 .cloudflare.com
@@ -1288,6 +1276,7 @@ voice.telephony.goog
 .djangosnippets.org
 .djorz.com
 .dl-laby.jp
+.dler.io
 .dlive.tv
 .dlsite.com
 .dlsite.jp
@@ -1609,6 +1598,7 @@ voice.telephony.goog
 .famunion.com
 .fan-qiang.com
 .fanatical.com
+.fanbox.cc
 .fandom.com
 .fangbinxing.com
 .fangeming.com
@@ -2092,6 +2082,7 @@ voice.telephony.goog
 .greenreadings.com
 .greenvpn.net
 .greenvpn.org
+.grindr.com
 .grotty-monday.com
 .gs-discuss.com
 .gsearch.media
@@ -2487,6 +2478,7 @@ voice.telephony.goog
 .imb.org
 .imdb.com
 .img.ly
+.imgasd.com
 .imgchili.net
 .imgmega.com
 .imgur.com
@@ -2514,6 +2506,7 @@ voice.telephony.goog
 .informer.com
 .ingress.com
 .initiativesforchina.org
+.inkbunny.net
 .inkui.com
 .inmediahk.net
 .innermongolia.org
@@ -2891,6 +2884,7 @@ voice.telephony.goog
 .lfpcontent.com
 .lhakar.org
 .lhasocialwork.org
+.li.taipei
 .liangyou.net
 .liangzhichuanmei.com
 .lianyue.net
@@ -3074,6 +3068,7 @@ voice.telephony.goog
 .matrix.org
 .matsushimakaede.com
 .matters.news
+.matters.town
 .mattwilcox.net
 .maturejp.com
 .maven.org
@@ -3227,6 +3222,7 @@ voice.telephony.goog
 .mondex.org
 .money-link.com.tw
 .moneyhome.biz
+.monica.im
 .monitorchina.org
 .monitorware.com
 .monlamit.org
@@ -3722,7 +3718,6 @@ voice.telephony.goog
 .paddleapi.com
 .padmanet.com
 .page.link
-.pages.dev
 .pagodabox.com
 .palacemoon.com
 .paldengyal.com
@@ -4377,6 +4372,7 @@ voice.telephony.goog
 .sis001.us
 .site2unblock.com
 .site90.net
+.sitebro.tw
 .sitekreator.com
 .sitemaps.org
 .six-degrees.io
@@ -4962,6 +4958,7 @@ voice.telephony.goog
 .torlock.com
 .torproject.org
 .torrentkitty.tv
+.torrentmac.net
 .torrentprivacy.com
 .torrentproject.se
 .torrenty.org
@@ -5670,6 +5667,7 @@ voice.telephony.goog
 .xiaohexie.com
 .xiaolan.me
 .xiaoma.org
+.xiaomi.eu
 .xiaxiaoqiang.net
 .xiezhua.com
 .xihua.es
@@ -5881,6 +5879,8 @@ voice.telephony.goog
 .zonghexinwen.com
 .zonghexinwen.net
 .zoogvpn.com
+.zoom.us
+.zoomgov.com
 .zootool.com
 .zoozle.net
 .zophar.net
@@ -5901,3 +5901,14 @@ voice.telephony.goog
 .zzcartoon.com
 .zzcloud.me
 .zzux.com
+api.waqi.info
+aqi.aqicn.org
+assets-priconne-redive-us.akamaized.net
+chat.openai.com.cdn.cloudflare.net
+cloud.oracle.com
+cvws.icloud-content.com
+developer.apple.com
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicomproductionae4b.blob.core.windows.net
+testflight.apple.com
+voice.telephony.goog

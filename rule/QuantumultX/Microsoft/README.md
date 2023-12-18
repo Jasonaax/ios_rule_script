@@ -12,17 +12,17 @@ Microsoft规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:18:44
+最后更新时间：2023-12-14 16:52:33
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 41  | 
 | HOST-KEYWORD | 4  | 
-| HOST-SUFFIX | 660  | 
+| HOST-SUFFIX | 662  | 
 | HOST-WILDCARD | 1  | 
 | USER-AGENT | 3  | 
-| TOTAL | 709  | 
+| TOTAL | 711  | 
 
 
 ## QuantumultX 
@@ -83,7 +83,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/OneDrive.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Microsoft.list
-- https://rules.kr328.app/microsoft.yaml
 - https://rules.kr328.app/onedrive.yaml
 - https://rules.kr328.app/microsoft@cn.yaml
 

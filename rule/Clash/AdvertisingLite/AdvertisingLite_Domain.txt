@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-05 02:07:15
+# UPDATED: 2023-12-15 02:08:35
 # DOMAIN: 23677
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13734
+# DOMAIN-SUFFIX: 13764
 # IP-CIDR: 184
-# TOTAL: 37622
+# TOTAL: 37652
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -24036,7 +24036,6 @@ zzxosget.com
 .2a.com.cn
 .2b815136jjjv.com
 .2byuf.cn
-.2cnt.net
 .2d-c.cn
 .2f48a41ea4.com
 .2fnrc.cn
@@ -25110,7 +25109,9 @@ zzxosget.com
 .adbs.ximalaya.com
 .adbuyer3.lycos.com
 .adbxb.com
-.adc-js.nine.com.au
+.adc.9news.com.au
+.adc.api.nine.com.au
+.adc.nine.com.au
 .adcast.deviantart.com
 .adcast.fblife.com
 .adccoo.cn
@@ -25504,6 +25505,7 @@ zzxosget.com
 .affiliates.mozy.com
 .affiliates.myfax.com
 .affiliates.thrixxx.com
+.affiliates.treasureisland.com
 .affiliatesmedia.sbobet.com
 .affiliation.fotovista.com
 .afj0.com
@@ -25557,6 +25559,7 @@ zzxosget.com
 .ahyuns.com
 .ai.bioon.com
 .ai.inmdata.io
+.ai.iol.io
 .ai.m.taobao.com
 .ai.taobao.com
 .ai.yimg.jp
@@ -25587,7 +25590,6 @@ zzxosget.com
 .airstossiplarge.info
 .ais.abacast.com
 .aiseet.aa.atianqi.com
-.aiseet.atianqi.com
 .aishake.cn
 .aishang.bid
 .aishangcan.com
@@ -25703,6 +25705,7 @@ zzxosget.com
 .analytics.cynapse.com
 .analytics.datahc.com
 .analytics.dol.gr
+.analytics.ecosia.org
 .analytics.eip.telegraph.co.uk
 .analytics.epi.es
 .analytics.fairfax.com.au
@@ -25730,7 +25733,6 @@ zzxosget.com
 .analytics.proxer.me
 .analytics.r17.com
 .analytics.schoolwires.com
-.analytics.shorte.st
 .analytics.sketchup.com
 .analytics.skyscanner.net
 .analytics.smallpdf.com
@@ -25740,6 +25742,7 @@ zzxosget.com
 .analytics.sonymusic.com
 .analytics.sportybet.com
 .analytics.spotify.com
+.analytics.staticiv.com
 .analytics.styria.hr
 .analytics.suggestv.io
 .analytics.teespring.com
@@ -25835,6 +25838,7 @@ zzxosget.com
 .api.mp.uc.cn
 .api.newad.ifeng.com
 .api.newbelden.com
+.api.nobeta.com.br
 .api.open.uc.cn
 .api.pingstart.com
 .api.primecaster.net
@@ -26250,7 +26254,6 @@ zzxosget.com
 .bbvdd.com
 .bbvjs.com
 .bc.geocities.yahoo.co.jp
-.bc.qunar.com
 .bccyyc.com
 .bchur.com
 .bcjjg.bugsevent.com
@@ -26534,6 +26537,7 @@ zzxosget.com
 .bninc2.cn
 .bnnr.pornpics.com
 .bnq86.com
+.bnr.alza.cz
 .bnrs.ilm.ee
 .bnrsis.com
 .bnzxc.xyz
@@ -26819,6 +26823,7 @@ zzxosget.com
 .carbonads.net
 .cardmrket.com
 .caredaily.me
+.carl.pubsvs.com
 .carpenterrprp.com
 .carutinv.com
 .cas.clickability.com
@@ -26859,7 +26864,6 @@ zzxosget.com
 .ccbccb.cn
 .cccab.club
 .cccccd.com
-.ccclub.cmbchina.com
 .cccrir.com
 .cccwwwr.com
 .cchfjz.com
@@ -27145,6 +27149,7 @@ zzxosget.com
 .clicks.superpages.com
 .clicks.traffictrader.net
 .clickstrip.6wav.es
+.clicktale.pantherssl.com
 .clicktracks.com
 .clickzs.com
 .client-api.ele.me
@@ -27245,6 +27250,7 @@ zzxosget.com
 .cnshef.com
 .cnsjx.net
 .cnt.nicemix.com
+.cnt.nuvid.com
 .cnt2.stroeerdp.de
 .cnxad.com
 .cnxad.net
@@ -27734,7 +27740,6 @@ zzxosget.com
 .damelaurig.info
 .dami66.cn
 .damiren.com
-.dampdock.com
 .damumu.xyz
 .danangmo.cn
 .dandan11.top
@@ -28584,6 +28589,7 @@ zzxosget.com
 .eva.ucas.com
 .evefashion.cn
 .event-analytics.yesware.com
+.event-api.contactatonce.co.uk
 .event-api.contactatonce.com.au
 .event-collector.udsrv.com
 .event-reporting-dot-webylytics.appspot.com
@@ -29131,6 +29137,7 @@ zzxosget.com
 .geepwnfly.club
 .geili.co
 .geiyujieda.com
+.gekko.spiceworks.com
 .gelinboer.cn
 .gen.alicdn.com
 .gen.etherscan.io
@@ -29168,6 +29175,7 @@ zzxosget.com
 .geoip.pennlive.com
 .geoip.silive.com
 .geoip.syracuse.com
+.geoip.viamichelin.com
 .georgias.cn
 .geoshopping.nzherald.co.nz
 .gepush.com
@@ -29295,6 +29303,7 @@ zzxosget.com
 .gmonitor.aliimg.com
 .gmota.g188.net
 .gmxyorg.cn
+.gnar.grammarly.com
 .gnativestreesaga.site
 .gneusqa.cn
 .gnmbd.top
@@ -29714,6 +29723,7 @@ zzxosget.com
 .hit.meta.ua
 .hit.webcentre.lycos.co.uk
 .hitlog2.chosun.com
+.hits.eluniversal.com.mx
 .hits.sys.lv
 .hitslink.com
 .hitweb2.chosun.com
@@ -30265,6 +30275,7 @@ zzxosget.com
 .inquiries.redhat.com
 .insenz.com
 .inside.bitcomet.com
+.insight.fonecta.fi
 .inskin.vo.llnwd.net
 .inst.360safe.com
 .instabug.com
@@ -30305,6 +30316,7 @@ zzxosget.com
 .ip.breitbart.com
 .ip.hivps.xyz
 .ip.taobao.com
+.ipapi.tmbi.com
 .ipchinatelecom.com
 .ipengtai.huanqiu.com
 .iperceptions.com
@@ -31213,6 +31225,7 @@ zzxosget.com
 .livep.l.ott.video.qq.com
 .lives.l.cp81.ott.cibntv.net
 .lives.l.ott.video.qq.com
+.livestats.la7.tv
 .liveupdate.mac.sandai.net
 .lixiangmo.com
 .lixianze.top
@@ -31338,6 +31351,7 @@ zzxosget.com
 .loobusir.com
 .looky.hyves.org
 .lopostone.com
+.lore.circulate.com
 .loricalreach.info
 .lottery.kuaiya.cn
 .lotuseed.com
@@ -32372,6 +32386,7 @@ zzxosget.com
 .nlyjs2015.com
 .nlzq888.com
 .nlzz7a3md4sx.com
+.nm.newegg.com
 .nmbtedu.com
 .nmeithybnvik.com
 .nmkgs.cn
@@ -32629,6 +32644,7 @@ zzxosget.com
 .optaim.com
 .optimix.asia
 .optimix.cn
+.optimize-stats.voxmedia.com
 .optimizely.com
 .optimizelyapis.com
 .optimus-ads.amap.com
@@ -32701,6 +32717,7 @@ zzxosget.com
 .p.eyebuydirect-cmr.net
 .p.kugou.com
 .p.m5bn.com
+.p.milliyet.com.tr
 .p.niudashu.com
 .p.qijijs.top
 .p.raidmedia.com.cn
@@ -32882,7 +32899,6 @@ zzxosget.com
 .petsheying.com
 .pf-2.pchome.net
 .pf.h5game.cn
-.pf.newegg.com
 .pf.pchome.net
 .pffw8mgd.com
 .pfp.sina.com.cn
@@ -33488,6 +33504,7 @@ zzxosget.com
 .r.mail.163.com
 .r.mail.ru
 .r.msn.com
+.r.my.com
 .r.myadx.net
 .r.ow.0.0.0.0.cn
 .r.pixgold.com
@@ -34236,7 +34253,6 @@ zzxosget.com
 .sitetag.us
 .sitetoway.com
 .sixgen.cn
-.sj.uukanshu.com
 .sj1.3987.com
 .sjaidu.com
 .sjbaiduadv1.redou.com
@@ -34506,6 +34522,7 @@ zzxosget.com
 .ssjpx.com
 .ssjy168.com
 .ssl-cdn.static.browser.mi-img.com
+.ssl-youtube.2cnt.net
 .ssl.google-analytics.com
 .ssl.hyhzy.cn
 .ssmuse1314.cn
@@ -34582,6 +34599,7 @@ zzxosget.com
 .stat.moji.com
 .stat.novinky.cz
 .stat.pandora.xiaomi.com
+.stat.ppstream.com
 .stat.pptv.com
 .stat.prsmedia.fr
 .stat.radar.imgsmail.ru
@@ -34640,6 +34658,7 @@ zzxosget.com
 .stats.blogg.se
 .stats.bmw.de
 .stats.buzzea.com
+.stats.cardschat.com
 .stats.cdn.pfn.bz
 .stats.cheddar.com
 .stats.chinaz.com
@@ -34648,6 +34667,7 @@ zzxosget.com
 .stats.clickability.com
 .stats.cloudwp.io
 .stats.developingperspective.com
+.stats.dice.com
 .stats.digg.com
 .stats.dmp.ghac.cn
 .stats.dnaindia.com
@@ -34667,6 +34687,7 @@ zzxosget.com
 .stats.opoloo.de
 .stats.oui.sncf
 .stats.pandora.com
+.stats.paste2.org
 .stats.piaggio.com
 .stats.propublica.org
 .stats.pusher.com
@@ -34683,6 +34704,7 @@ zzxosget.com
 .stats.uswitch.com
 .stats.videodelivery.net
 .stats.visistat.com
+.stats.vulture.com
 .stats.wwd.com
 .stats.yinyuetai.com
 .stats.ynet.co.il
@@ -35321,6 +35343,7 @@ zzxosget.com
 .tracking.ancestry.com
 .tracking.batanga.com
 .tracking.battleon.com
+.tracking.bd4travel.com
 .tracking.beilagen-prospekte.de
 .tracking.chacha.com
 .tracking.conduit.com
@@ -35348,6 +35371,7 @@ zzxosget.com
 .tracking.porndoelabs.com
 .tracking.pornhd.com
 .tracking.promiflash.de
+.tracking.quillion.com
 .tracking.resumecompanion.com
 .tracking.rightmessage.com
 .tracking.shoptogether.buy.com
@@ -35916,6 +35940,7 @@ zzxosget.com
 .visit.dealspwn.com
 .visit.geocities.com
 .visit.mobot.net
+.visit.theglobeandmail.com
 .visitors.sourcingmap.com
 .vista.tgbus.com
 .vista.tgbusdata.cn
@@ -36021,6 +36046,7 @@ zzxosget.com
 .wa.gtimg.com
 .wa.kuwo.cn
 .wa.metro.co.uk
+.wa.ui-portal.de
 .waby66.cn
 .wacc888.com
 .wacucmiy.net
@@ -36349,6 +36375,7 @@ zzxosget.com
 .wt.adtrue24.com
 .wtcpm.com
 .wth.lenovomm.com
+.wtk.db.com
 .wtpn.twenga.co.uk
 .wtpn.twenga.de
 .wtrace.cmgame.com
@@ -36379,6 +36406,7 @@ zzxosget.com
 .wvver.com
 .ww.xiaopiaoyou.com
 .ww2.gestyy.com
+.wwads.cn
 .wwetjy.com
 .wwis-dubc1-vip60.adobe.com
 .wwlolbs.com
@@ -36933,6 +36961,7 @@ zzxosget.com
 .yizhijin.cn
 .yjiaj.com
 .yjoiunf.com
+.yjtag.yahoo.co.jp
 .yjunzi.com
 .yk0712.com
 .ykatr.youku.com
@@ -37003,6 +37032,7 @@ zzxosget.com
 .yourlocalguardian-gb.yourlocalguardian.co.uk
 .yousee.com
 .youshouge513.cn
+.youtube.2cnt.net
 .youtui456.com
 .youweiprint.com
 .youxi.kugou.com

@@ -71,6 +71,12 @@ http:
       require-body: true
       timeout: 30
       argument: '' 
+    - match: ^https?:\/\/api\.zhihu\.com\/feed\/render\/tab\/config
+      name: zheye.js
+      type: response
+      require-body: true
+      timeout: 30
+      argument: '' 
 
     # 用户信息 - 修改用户盐值
     - match: ^https?:\/\/api\.zhihu\.com\/user-credit\/basis
@@ -113,7 +119,7 @@ http:
       argument: ''
 
     # 回答信息流 - 移除黑名单用户的回答、去除广告
-    - match: ^https?:\/\/api\.zhihu\.com\/next-data
+    - match: ^https?:\/\/api\.zhihu\.com\/next-(data|bff|render)
       name: zheye.js
       type: response
       require-body: true

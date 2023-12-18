@@ -12,15 +12,15 @@
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:24:15
+最后更新时间：2023-12-14 17:00:27
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 5  | 
 | HTTP-REQUEST-SCRIPT | 1  | 
-| HTTP-RESPONSE-SCRIPT | 24  | 
-| REJECT | 12  | 
+| HTTP-RESPONSE-SCRIPT | 25  | 
+| REJECT | 11  | 
 | MITM | 21  | 
 | TOTAL | 63  | 
 

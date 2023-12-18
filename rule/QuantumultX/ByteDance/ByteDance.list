@@ -1,11 +1,11 @@
 # NAME: ByteDance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-06-05 02:11:43
-# HOST-SUFFIX: 304
+# UPDATED: 2023-12-14 16:55:59
+# HOST-SUFFIX: 312
 # IP-CIDR: 1
 # USER-AGENT: 1
-# TOTAL: 306
+# TOTAL: 314
 HOST-SUFFIX,2333333333333.com,ByteDance
 HOST-SUFFIX,365yg.com,ByteDance
 HOST-SUFFIX,activitybyte.com,ByteDance
@@ -41,11 +41,11 @@ HOST-SUFFIX,bytedns2.com,ByteDance
 HOST-SUFFIX,bytednsdoc.com,ByteDance
 HOST-SUFFIX,byteeffecttos.com,ByteDance
 HOST-SUFFIX,bytefcdn.com,ByteDance
-HOST-SUFFIX,bytegecko.com,ByteDance
 HOST-SUFFIX,bytegoofy.com,ByteDance
 HOST-SUFFIX,bytegslb.com,ByteDance
 HOST-SUFFIX,bytehwm.com,ByteDance
 HOST-SUFFIX,byteimg.com,ByteDance
+HOST-SUFFIX,byteintl.net,ByteDance
 HOST-SUFFIX,bytelb.net,ByteDance
 HOST-SUFFIX,bytescm.com,ByteDance
 HOST-SUFFIX,bytesfield.com,ByteDance
@@ -94,12 +94,16 @@ HOST-SUFFIX,faceu.com,ByteDance
 HOST-SUFFIX,faceu.com.cn,ByteDance
 HOST-SUFFIX,faceu.mobi,ByteDance
 HOST-SUFFIX,faceu.net,ByteDance
+HOST-SUFFIX,fanqienovel.com,ByteDance
 HOST-SUFFIX,feelgood.cn,ByteDance
 HOST-SUFFIX,feiliao.com,ByteDance
 HOST-SUFFIX,feishu.cn,ByteDance
 HOST-SUFFIX,feishu.net,ByteDance
 HOST-SUFFIX,feishucdn.com,ByteDance
 HOST-SUFFIX,feishupkg.com,ByteDance
+HOST-SUFFIX,fqnovel.com,ByteDance
+HOST-SUFFIX,fqnovelpic.com,ByteDance
+HOST-SUFFIX,fqnovelvod.com,ByteDance
 HOST-SUFFIX,fullluckcalendar.com,ByteDance
 HOST-SUFFIX,gifshow.com,ByteDance
 HOST-SUFFIX,gogokid.com,ByteDance
@@ -264,7 +268,11 @@ HOST-SUFFIX,ulikecam.mobi,ByteDance
 HOST-SUFFIX,ulikecam.net,ByteDance
 HOST-SUFFIX,volccdn.com,ByteDance
 HOST-SUFFIX,volcdem.com,ByteDance
+HOST-SUFFIX,volceapplog.com,ByteDance
 HOST-SUFFIX,volcengine.com,ByteDance
+HOST-SUFFIX,volces.com,ByteDance
+HOST-SUFFIX,volcsirius.com,ByteDance
+HOST-SUFFIX,volcvod.com,ByteDance
 HOST-SUFFIX,woaihuoshan.com,ByteDance
 HOST-SUFFIX,wohst8.com,ByteDance
 HOST-SUFFIX,wtturl.cn,ByteDance

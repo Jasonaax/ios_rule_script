@@ -12,17 +12,17 @@ BiliBili规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-06-12 02:11:13
+最后更新时间：2023-12-14 16:55:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 52  | 
+| DOMAIN | 53  | 
 | DOMAIN-SUFFIX | 61  | 
 | IP-CIDR | 8  | 
 | PROCESS-NAME | 6  | 
 | USER-AGENT | 4  | 
-| TOTAL | 131  | 
+| TOTAL | 132  | 
 
 
 ## Surge 
@@ -77,6 +77,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bilibili.yaml
 - https://rules.kr328.app/bilibili.yaml
+- https://ruleset.isagood.day/bilibili.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

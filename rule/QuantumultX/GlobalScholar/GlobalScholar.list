@@ -1,9 +1,9 @@
 # NAME: GlobalScholar
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:23:53
-# HOST-SUFFIX: 220
-# TOTAL: 220
+# UPDATED: 2023-12-14 16:59:47
+# HOST-SUFFIX: 224
+# TOTAL: 224
 HOST-SUFFIX,1lib.cloud,GlobalScholar
 HOST-SUFFIX,1lib.domains,GlobalScholar
 HOST-SUFFIX,1lib.education,GlobalScholar
@@ -119,6 +119,7 @@ HOST-SUFFIX,libguides.com,GlobalScholar
 HOST-SUFFIX,libsolutions.app,GlobalScholar
 HOST-SUFFIX,libsolutions.domains,GlobalScholar
 HOST-SUFFIX,libsolutions.net,GlobalScholar
+HOST-SUFFIX,liebertpub.com,GlobalScholar
 HOST-SUFFIX,literatumonline.com,GlobalScholar
 HOST-SUFFIX,ma1lib.org,GlobalScholar
 HOST-SUFFIX,madsrevolution.net,GlobalScholar
@@ -200,6 +201,7 @@ HOST-SUFFIX,tandfonline.com,GlobalScholar
 HOST-SUFFIX,taylorandfrancis.com,GlobalScholar
 HOST-SUFFIX,taylorfrancis.com,GlobalScholar
 HOST-SUFFIX,thelancet.com,GlobalScholar
+HOST-SUFFIX,turnitin.com,GlobalScholar
 HOST-SUFFIX,uchicago.edu,GlobalScholar
 HOST-SUFFIX,ucla.edu,GlobalScholar
 HOST-SUFFIX,ukwhoswho.com,GlobalScholar
@@ -207,6 +209,8 @@ HOST-SUFFIX,umass.edu,GlobalScholar
 HOST-SUFFIX,un.org,GlobalScholar
 HOST-SUFFIX,uni-bielefeld.de,GlobalScholar
 HOST-SUFFIX,universitypressscholarship.com,GlobalScholar
+HOST-SUFFIX,uq.edu.au,GlobalScholar
+HOST-SUFFIX,uq.h5p.com,GlobalScholar
 HOST-SUFFIX,veryshortintroductions.com,GlobalScholar
 HOST-SUFFIX,wanfangdata.com,GlobalScholar
 HOST-SUFFIX,wanfangdata.com.cn,GlobalScholar

@@ -1,10 +1,10 @@
 # NAME: IPTVOther
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-28 18:23:59
-# DOMAIN: 2329
-# IP-CIDR: 517
-# TOTAL: 2846
+# UPDATED: 2023-12-14 16:59:53
+# DOMAIN: 2328
+# IP-CIDR: 516
+# TOTAL: 2844
 payload:
   - '0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com'
   - '0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com'
@@ -16,6 +16,7 @@ payload:
   - '106a0d4b0.vws.vegacdn.vn'
   - '10tv.lincoln.ne.gov'
   - '1111296894.rsc.cdn77.org'
+  - '120play.longyuandingyi.com'
   - '123tv-mx1.flex-cdn.net'
   - '123tv.cdn.ses-ps.com'
   - '156zy.suyunbo.tv'
@@ -109,7 +110,6 @@ payload:
   - '59d7d6f47d7fc.streamlock.net'
   - '59d8c0cee6f3d.streamlock.net'
   - '59e8e1c60a2b2.streamlock.net'
-  - '59ec5453559f0.streamlock.net'
   - '59f1cbe63db89.streamlock.net'
   - '59f2354c05961.streamlock.net'
   - '59ffdfa4495c3.streamlock.net'
@@ -196,6 +196,7 @@ payload:
   - '7.innovatestream.pe'
   - '7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com'
   - '80tv.lincoln.ne.gov'
+  - '87c576b1.cbilant.com'
   - '88b9da48.kazmazpaz.ru'
   - '8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com'
   - '8noro432dm6g-hls-live.wmncdn.net'
@@ -600,7 +601,6 @@ payload:
   - 'dcunilive38-lh.akamaihd.net'
   - 'dcunilive83-lh.akamaihd.net'
   - 'dcunilive93-lh.akamaihd.net'
-  - 'de1cdn.plusx.tv'
   - 'de1se01.v2beat.live'
   - 'dee7mwgg9dzvl.cloudfront.net'
   - 'demandafrica-klowdtv.amagi.tv'
@@ -648,7 +648,6 @@ payload:
   - 'eco.streams.ovh'
   - 'ecuastreamhd.com'
   - 'ed1ov.live.opencaster.com'
-  - 'edge-hls.doppiocdn.com'
   - 'edge-ind.inapcdn.in'
   - 'edge-live-ger1.ovstream.com'
   - 'edge-telia1.tiesraides.lv'
@@ -732,7 +731,6 @@ payload:
   - 'fashiontv-fashiontv-3-it.samsung.wurl.com'
   - 'fashiontv-fashiontv-4-de.samsung.wurl.com'
   - 'fashiontv-fashiontv-loriginal-fr.samsung.wurl.com'
-  - 'fc.maa1804.com'
   - 'fc.maa1808.com'
   - 'fc.maa1809.com'
   - 'fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com'
@@ -786,6 +784,7 @@ payload:
   - 'gcbsc.v.live.baishancdnx.cn'
   - 'gccncc.v.wscdns.com'
   - 'gctxyc.liveplay.myqcloud.com'
+  - 'gcyivjc.qrneryt.com'
   - 'gddb.chinashadt.com'
   - 'gemstv.wide-stream.net'
   - 'gg.gg'
@@ -957,6 +956,7 @@ payload:
   - 'istream.binarywaves.com'
   - 'itv.streams.ovh'
   - 'j78dpa3edq5r-hls-live.5centscdn.com'
+  - 'j9.avstatic.com'
   - 'janson-supersimplesongs-1.vizio.wurl.com'
   - 'jiangjinlive.cbg.cn'
   - 'jk3lz82elw79-hls-live.5centscdn.com'
@@ -967,7 +967,6 @@ payload:
   - 'jrtv-live.ercdn.net'
   - 'js1.amtb.cn'
   - 'jsbh.chinashadt.com'
-  - 'jscdn.kunkunhome.xyz'
   - 'jsylivealone302.iqilu.com'
   - 'judge-faith-1.vizio.wurl.com'
   - 'jukin-weatherspy-1.vizio.wurl.com'
@@ -1299,6 +1298,7 @@ payload:
   - 'livetvsteam.com'
   - 'livevideo.infomaniak.com'
   - 'lonestar-rakuten.amagi.tv'
+  - 'long.longyuandingyi.com'
   - 'loop-90s-1.roku.wurl.com'
   - 'loop-country-1.roku.wurl.com'
   - 'loop-hip-hop-1.roku.wurl.com'
@@ -1339,7 +1339,6 @@ payload:
   - 'mbningestworld-i.akamaihd.net'
   - 'mbnowweb-lh.akamaihd.net'
   - 'mbnvvideoingest-i.akamaihd.net'
-  - 'mddm3u8.ffkm25.com'
   - 'mdslivehlsb-i.akamaihd.net'
   - 'mdstrm.com'
   - 'mecliscanlitv-lh.akamaihd.net'
@@ -1992,12 +1991,9 @@ payload:
   - 't06243a-lh.akamaihd.net'
   - 't06858-lh.akamaihd.net'
   - 't07113a-lh.akamaihd.net'
-  - 't10.cdn2020.com'
   - 't11.cdn2020.com'
   - 't12.cdn2020.com'
-  - 't13.cdn2020.com'
   - 't15.cdn2020.com'
-  - 't16.cdn2020.com'
   - 't17.cdn2020.com'
   - 't2.tvmak.com'
   - 't4s.cdn2020.com'
@@ -2138,6 +2134,7 @@ payload:
   - 'usb.bozztv.com'
   - 'usgeowall.sinclairstoryline.com'
   - 'uskudarunv.mediatriple.net'
+  - 'v1.ckcdn2001.com'
   - 'v1.proofix.ru'
   - 'v2.91kds.cn'
   - 'v2.catcast.tv'
@@ -2182,6 +2179,7 @@ payload:
   - 'video.zidivo.com'
   - 'video01.kshost.com.br'
   - 'video1.getstreamhosting.com'
+  - 'video1.rhsj520.com'
   - 'video13.virtualtronics.com'
   - 'video2.51daao.com'
   - 'video2.lhdserver.es'
@@ -2195,6 +2193,7 @@ payload:
   - 'vips-livecdn.fptplay.net'
   - 'visit.jjbctv.com'
   - 'vitor-tvclassics-1.plex.wurl.com'
+  - 'vl05t7es.rostelekom.xyz'
   - 'vmvideo.gcdn.co'
   - 'voa-lh.akamaihd.net'
   - 'vod.mpmbc.co.kr'

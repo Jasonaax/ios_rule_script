@@ -12,15 +12,15 @@ Adobe规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:21:17
+最后更新时间：2023-12-14 16:55:52
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 8  | 
 | HOST-KEYWORD | 1  | 
-| HOST-SUFFIX | 137  | 
-| TOTAL | 146  | 
+| HOST-SUFFIX | 136  | 
+| TOTAL | 145  | 
 
 
 ## QuantumultX 

@@ -12,17 +12,17 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-05-28 18:18:45
+最后更新时间：2023-12-14 16:52:34
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 7  | 
-| DOMAIN-KEYWORD | 5  | 
-| DOMAIN-SUFFIX | 1544  | 
+| DOMAIN | 9  | 
+| DOMAIN-KEYWORD | 7  | 
+| DOMAIN-SUFFIX | 1549  | 
 | IP-CIDR | 10  | 
-| PROCESS-NAME | 6  | 
-| TOTAL | 1572  | 
+| PROCESS-NAME | 7  | 
+| TOTAL | 1582  | 
 
 
 ## Clash 
@@ -145,6 +145,12 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://rules.kr328.app/apple@ads.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/AppleNews.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/AppleTV.yaml
+- https://ruleset.isagood.day/apple_cdn_domain.conf
+- https://ruleset.isagood.day/apple_services.conf
+- https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/Apple/AppleAPIRules.conf
+- https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/Apple/AppleNoChinaCDNRules.conf
+- https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/Apple/AppleCDNRules.conf
+- https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/Apple/AppleRules.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

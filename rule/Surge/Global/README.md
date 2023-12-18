@@ -21,19 +21,19 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-06-12 02:10:47
+最后更新时间：2023-12-17 02:12:26
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 159  | 
-| DOMAIN-KEYWORD | 39  | 
-| DOMAIN-SUFFIX | 19118  | 
-| IP-CIDR | 106  | 
+| DOMAIN | 158  | 
+| DOMAIN-KEYWORD | 37  | 
+| DOMAIN-SUFFIX | 19354  | 
+| IP-CIDR | 112  | 
 | IP-CIDR6 | 4  | 
 | PROCESS-NAME | 1  | 
 | USER-AGENT | 46  | 
-| TOTAL | 19473  | 
+| TOTAL | 19712  | 
 
 
 ## Surge 
@@ -44,9 +44,14 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 - Global_Domain.list，请使用DOMAIN-SET。
 
 #### 文件区别
+- Global_All.list与Global_All_No_Resolve.list为 Surge 5.21.0(2952) 以上版本使用
 - Global_Resolve.list与Global.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 
 #### 配置建议
+- Surge 5.21.0(2952)以上版本使用以下配置：
+- Global_All.list 单独使用。
+- Global_All_No_Resolve.list 单独使用。
+- Surge 5.21.0(2952)以下版本使用以下配置：
 - Global.list、Global_Domain.list 共同使用。
 - Global_Resolve.list、Global_Domain.list 共同使用。
 
@@ -109,6 +114,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
 - https://rules.kr328.app/geolocation-%21cn.yaml
+- https://ruleset.isagood.day/global.conf
+- https://ruleset.isagood.day/global_domain.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

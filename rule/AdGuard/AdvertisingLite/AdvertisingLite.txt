@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2023-06-13 02:07:23
-! Total: 37411
+! Updated: 2023-12-18 02:08:05
+! Total: 37441
 
 
 ||00-gov.cn^
@@ -630,7 +630,6 @@
 ||2c3a97984f45.com^
 ||2c6bcbbb82ce911.com^
 ||2cbisyjaae.com^
-||2cnt.net^
 ||2d-c.cn^
 ||2d7bd9e6eb370143.com^
 ||2db24c0ea6.com^
@@ -2664,9 +2663,11 @@
 ||adbuyer.com^
 ||adbuyer3.lycos.com^
 ||adbxb.com^
-||adc-js.nine.com.au^
 ||adc-serv.net^
+||adc.9news.com.au^
+||adc.api.nine.com.au^
 ||adc.hpplay.cn^
+||adc.nine.com.au^
 ||adcade.com^
 ||adcalm.com^
 ||adcamel.pw^
@@ -3945,6 +3946,7 @@
 ||affiliates.myfax.com^
 ||affiliates.purevpn.com^
 ||affiliates.thrixxx.com^
+||affiliates.treasureisland.com^
 ||affiliatesensor.com^
 ||affiliatesmedia.sbobet.com^
 ||affiliatewindow.com^
@@ -4124,6 +4126,7 @@
 ||ahyuns.com^
 ||ai.bioon.com^
 ||ai.inmdata.io^
+||ai.iol.io^
 ||ai.m.taobao.com^
 ||ai.taobao.com^
 ||ai.yimg.jp^
@@ -4196,7 +4199,6 @@
 ||airstossiplarge.info^
 ||ais.abacast.com^
 ||aiseet.aa.atianqi.com^
-||aiseet.atianqi.com^
 ||aishake.cn^
 ||aishang.bid^
 ||aishangcan.com^
@@ -4521,6 +4523,7 @@
 ||analytics.cynapse.com^
 ||analytics.datahc.com^
 ||analytics.dol.gr^
+||analytics.ecosia.org^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
 ||analytics.eip.telegraph.co.uk^
@@ -4559,7 +4562,6 @@
 ||analytics.proxer.me^
 ||analytics.r17.com^
 ||analytics.schoolwires.com^
-||analytics.shorte.st^
 ||analytics.sketchup.com^
 ||analytics.skyscanner.net^
 ||analytics.smallpdf.com^
@@ -4570,6 +4572,7 @@
 ||analytics.sonymusic.com^
 ||analytics.sportybet.com^
 ||analytics.spotify.com^
+||analytics.staticiv.com^
 ||analytics.styria.hr^
 ||analytics.suggestv.io^
 ||analytics.talkingdata.net^
@@ -4810,6 +4813,7 @@
 ||api.newbelden.com^
 ||api.newsfeed.intl.miui.com^
 ||api.no4book.com^
+||api.nobeta.com.br^
 ||api.open.uc.cn^
 ||api.pingstart.com^
 ||api.primecaster.net^
@@ -5875,7 +5879,6 @@
 ||bbyhjamzpkenvm.com^
 ||bc.coupons.com^
 ||bc.geocities.yahoo.co.jp^
-||bc.qunar.com^
 ||bc0a.com^
 ||bcajjtbzmdrl.com^
 ||bcash4you.com^
@@ -6611,6 +6614,7 @@
 ||bnnr.pornpics.com^
 ||bnq86.com^
 ||bnqfbcnzdt.com^
+||bnr.alza.cz^
 ||bnr.sys.lv^
 ||bnrdom.com^
 ||bnrs.ilm.ee^
@@ -7406,6 +7410,7 @@
 ||cardniu.com^
 ||caredaily.me^
 ||caringzinc.com^
+||carl.pubsvs.com^
 ||carpenterrprp.com^
 ||carrotquest.io^
 ||cars.fyidriving.com^
@@ -7511,7 +7516,6 @@
 ||ccbccb.cn^
 ||cccab.club^
 ||cccccd.com^
-||ccclub.cmbchina.com^
 ||cccpmo.com^
 ||cccrir.com^
 ||cccwwwr.com^
@@ -8237,6 +8241,7 @@
 ||clickstrip.6wav.es^
 ||clicksvenue.com^
 ||clicktale.net^
+||clicktale.pantherssl.com^
 ||clickterra.net^
 ||clickthru.lefbc.com^
 ||clickthruserver.com^
@@ -8450,6 +8455,7 @@
 ||cnstats.ru^
 ||cnt.my^
 ||cnt.nicemix.com^
+||cnt.nuvid.com^
 ||cnt1.net^
 ||cnt2.stroeerdp.de^
 ||cntdy.mobi^
@@ -9876,7 +9882,6 @@
 ||dami66.cn^
 ||damihyugqet.com^
 ||damiren.com^
-||dampdock.com^
 ||damumu.xyz^
 ||dana123.com^
 ||danangmo.cn^
@@ -12315,6 +12320,7 @@
 ||evefashion.cn^
 ||evenexcite.com^
 ||event-analytics.yesware.com^
+||event-api.contactatonce.co.uk^
 ||event-api.contactatonce.com.au^
 ||event-collector.udsrv.com^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -13891,6 +13897,7 @@
 ||geili.co^
 ||geistm.com^
 ||geiyujieda.com^
+||gekko.spiceworks.com^
 ||gelbitelf.club^
 ||gelinboer.cn^
 ||gemius.pl^
@@ -13963,6 +13970,7 @@
 ||geoip.pennlive.com^
 ||geoip.silive.com^
 ||geoip.syracuse.com^
+||geoip.viamichelin.com^
 ||geojs.io^
 ||geolid.com^
 ||geoplugin.net^
@@ -14320,6 +14328,7 @@
 ||gmzaaeenp.com^
 ||gmzdaily.com^
 ||gnamwmixa.com^
+||gnar.grammarly.com^
 ||gnativestreesaga.site^
 ||gneusqa.cn^
 ||gnezdo.ru^
@@ -15365,6 +15374,7 @@
 ||hitmir.ru^
 ||hitplus.net^
 ||hits.e.cl^
+||hits.eluniversal.com.mx^
 ||hits.io^
 ||hits.sys.lv^
 ||hits2u.com^
@@ -16738,6 +16748,7 @@
 ||inside.rtbasia.com^
 ||insideall.com^
 ||insidesoci.al^
+||insight.fonecta.fi^
 ||insight.mintel.com^
 ||insight.rapid7.com^
 ||insightera.com^
@@ -16922,6 +16933,7 @@
 ||ipacpdxmvwyi.com^
 ||ipaddresslabs.com^
 ||ipapi.co^
+||ipapi.tmbi.com^
 ||ipaypay.cn^
 ||ipbiydocgvllrg.com^
 ||ipbsgpm4.top^
@@ -19347,6 +19359,7 @@
 ||livestat.com^
 ||livestatisc.com^
 ||livestats.fr^
+||livestats.la7.tv^
 ||livestatsnet.services^
 ||livetex.ru^
 ||livetrafficfeed.com^
@@ -19659,6 +19672,7 @@
 ||lopley.com^
 ||lopostone.com^
 ||lopsookr.com^
+||lore.circulate.com^
 ||loricalreach.info^
 ||loseads.eu^
 ||losecounter.de^
@@ -22690,6 +22704,7 @@
 ||nlyjs2015.com^
 ||nlzq888.com^
 ||nlzz7a3md4sx.com^
+||nm.newegg.com^
 ||nmbtedu.com^
 ||nmcdn.us^
 ||nmdvagwi.com^
@@ -23615,6 +23630,7 @@
 ||optimix.asia^
 ||optimix.cn^
 ||optimization-methods.com^
+||optimize-stats.voxmedia.com^
 ||optimizely.appspot.com^
 ||optimizely.com^
 ||optimizelyapis.com^
@@ -23912,6 +23928,7 @@
 ||p.eyebuydirect-cmr.net^
 ||p.kugou.com^
 ||p.m5bn.com^
+||p.milliyet.com.tr^
 ||p.niudashu.com^
 ||p.qijijs.top^
 ||p.raasnet.com^
@@ -24354,7 +24371,6 @@
 ||pezrphjl.com^
 ||pf-2.pchome.net^
 ||pf.h5game.cn^
-||pf.newegg.com^
 ||pf.pchome.net^
 ||pfcjhjogq.com^
 ||pfdctvdgjw.com^
@@ -26403,6 +26419,7 @@
 ||r.mobpartner.mobi^
 ||r.movad.de^
 ||r.msn.com^
+||r.my.com^
 ||r.myadx.net^
 ||r.ow.0.0.0.0.cn^
 ||r.pixgold.com^
@@ -28670,7 +28687,6 @@
 ||sixsigmatraffic.com^
 ||siym.x1g4z6.cn^
 ||siyuanmall.com^
-||sj.uukanshu.com^
 ||sj1.3987.com^
 ||sjaidu.com^
 ||sjbaiduadv1.redou.com^
@@ -29468,6 +29484,7 @@
 ||ssjy168.com^
 ||ssl-cdn.static.browser.mi-img.com^
 ||ssl-services.com^
+||ssl-youtube.2cnt.net^
 ||ssl.51lhcx.com^
 ||ssl.aszy.club^
 ||ssl.google-analytics.com^
@@ -29618,6 +29635,7 @@
 ||stat.pchome.net^
 ||stat.pl^
 ||stat.pladform.ru^
+||stat.ppstream.com^
 ||stat.pptv.com^
 ||stat.prsmedia.fr^
 ||stat.radar.imgsmail.ru^
@@ -29759,6 +29777,7 @@
 ||stats.blogg.se^
 ||stats.bmw.de^
 ||stats.buzzea.com^
+||stats.cardschat.com^
 ||stats.cdn.pfn.bz^
 ||stats.cheddar.com^
 ||stats.chinaz.com^
@@ -29770,6 +29789,7 @@
 ||stats.cz^
 ||stats.de^
 ||stats.developingperspective.com^
+||stats.dice.com^
 ||stats.digg.com^
 ||stats.dmp.ghac.cn^
 ||stats.dnaindia.com^
@@ -29793,6 +29813,7 @@
 ||stats.opoloo.de^
 ||stats.oui.sncf^
 ||stats.pandora.com^
+||stats.paste2.org^
 ||stats.pflexads.com^
 ||stats.piaggio.com^
 ||stats.propublica.org^
@@ -29811,6 +29832,7 @@
 ||stats.v.duowan.com^
 ||stats.videodelivery.net^
 ||stats.visistat.com^
+||stats.vulture.com^
 ||stats.webstarts.com^
 ||stats.wwd.com^
 ||stats.yinyuetai.com^
@@ -31483,6 +31505,7 @@
 ||tracking.badgeville.com^
 ||tracking.batanga.com^
 ||tracking.battleon.com^
+||tracking.bd4travel.com^
 ||tracking.beilagen-prospekte.de^
 ||tracking.chacha.com^
 ||tracking.conduit.com^
@@ -31520,6 +31543,7 @@
 ||tracking.pornhd.com^
 ||tracking.practicefusion.com^
 ||tracking.promiflash.de^
+||tracking.quillion.com^
 ||tracking.resumecompanion.com^
 ||tracking.rightmessage.com^
 ||tracking.sembox.it^
@@ -33320,6 +33344,7 @@
 ||visit.dealspwn.com^
 ||visit.geocities.com^
 ||visit.mobot.net^
+||visit.theglobeandmail.com^
 ||visitor-analytics.io^
 ||visitor-analytics.net^
 ||visitor-service.tealiumiq.com^
@@ -33728,6 +33753,7 @@
 ||wa.gtimg.com^
 ||wa.kuwo.cn^
 ||wa.metro.co.uk^
+||wa.ui-portal.de^
 ||wa4etw9l.top^
 ||waavnpkn.com^
 ||waby66.cn^
@@ -34634,6 +34660,7 @@
 ||wth.lenovomm.com^
 ||wthormvztq.com^
 ||wtjcqntwdtgs.com^
+||wtk.db.com^
 ||wtm.monitoringservice.co^
 ||wtmokqxhcormc.com^
 ||wtmtrack.com^
@@ -34700,6 +34727,7 @@
 ||ww.xiaopiaoyou.com^
 ||ww2.gestyy.com^
 ||ww2.imgdrive.net^
+||wwads.cn^
 ||wwbn.com^
 ||wwbzfppvhiebl.com^
 ||wwclicknews.club^
@@ -36229,6 +36257,7 @@
 ||yjoldnbcw.com^
 ||yjpwmybjkg.com^
 ||yjtag.jp^
+||yjtag.yahoo.co.jp^
 ||yjtdbdnhcu.com^
 ||yjunzi.com^
 ||yjwtxskmswcjc.com^
@@ -36398,6 +36427,7 @@
 ||youso.crazyegg.com^
 ||yousuode.cn^
 ||youtibe.com^
+||youtube.2cnt.net^
 ||youtuhe.com^
 ||youtui456.com^
 ||youweiprint.com^

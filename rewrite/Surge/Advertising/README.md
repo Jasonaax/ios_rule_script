@@ -16,15 +16,15 @@
 
 ## 规则统计
 
-最后更新时间：2023-06-12 02:14:06
+最后更新时间：2023-12-14 17:00:11
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| REJECT | 555  | 
-| MITM | 513  | 
+| REJECT | 726  | 
+| MITM | 683  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
-| TOTAL | 1074  | 
+| TOTAL | 1415  | 
 
 
 ## Surge 
@@ -87,6 +87,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Block/Advertising.plugin
 - https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/StartUp.conf
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
+- https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet
+- https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
+- https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
