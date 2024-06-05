@@ -1,30 +1,26 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-14 16:56:00
-# DOMAIN: 19
+# UPDATED: 2024-06-02 02:10:57
+# DOMAIN: 15
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 3679
+# DOMAIN-SUFFIX: 3676
 # IP-CIDR: 17
 # IP-CIDR6: 4
-# TOTAL: 3728
+# TOTAL: 3721
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
-DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,client.amplifi.com
-DOMAIN,dl.google.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,ip.istatmenus.app
 DOMAIN,kc.kexinshe.com
-DOMAIN,mtalk.google.com
 DOMAIN,origin-a.akamaihd.ne
 DOMAIN,origin-a.akamaihd.net
-DOMAIN,outlook.office365.com
 DOMAIN,sms.imagetasks.com
-DOMAIN,smtp.office365.com
 DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,weixin.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.yxssp.com
 DOMAIN-SUFFIX,00cdn.com
@@ -1162,6 +1158,7 @@ DOMAIN-SUFFIX,discuz.org
 DOMAIN-SUFFIX,diyiyou.com
 DOMAIN-SUFFIX,dj99.com
 DOMAIN-SUFFIX,dl-vip.pcfaster.baidu.co.th
+DOMAIN-SUFFIX,dler.cloud
 DOMAIN-SUFFIX,dlgslb.net
 DOMAIN-SUFFIX,dlnel.com
 DOMAIN-SUFFIX,dlnel.org
@@ -1468,7 +1465,6 @@ DOMAIN-SUFFIX,gongxiangcj.com
 DOMAIN-SUFFIX,gongyi.xin
 DOMAIN-SUFFIX,goodread.com
 DOMAIN-SUFFIX,goofish.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,goosail.com
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,goselling.com
@@ -1522,7 +1518,6 @@ DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,haidilao.com
 DOMAIN-SUFFIX,hainanairlines.com
 DOMAIN-SUFFIX,haishun.com
-DOMAIN-SUFFIX,hamreus.com
 DOMAIN-SUFFIX,hanboshi.com
 DOMAIN-SUFFIX,handanjob.com
 DOMAIN-SUFFIX,hangjiayun.com
@@ -1795,6 +1790,7 @@ DOMAIN-SUFFIX,ip.la
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,ipanda.net
+DOMAIN-SUFFIX,ipapark.com
 DOMAIN-SUFFIX,ipinyou.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipplus360.com
@@ -2473,6 +2469,7 @@ DOMAIN-SUFFIX,oeeee.com
 DOMAIN-SUFFIX,offcn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,officese.com
 DOMAIN-SUFFIX,oi-wiki.com
 DOMAIN-SUFFIX,oicq88.com
@@ -2569,9 +2566,6 @@ DOMAIN-SUFFIX,pipaw.net
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,pkoplink.com
 DOMAIN-SUFFIX,pkulaw.com
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,pmphmooc.com
 DOMAIN-SUFFIX,pn1waq.com
 DOMAIN-SUFFIX,pnas.org
@@ -3311,7 +3305,6 @@ DOMAIN-SUFFIX,weilaiyunxiao.com
 DOMAIN-SUFFIX,weiphone.com
 DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weixing.com
 DOMAIN-SUFFIX,weiyangx.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,welltrend-edu.com

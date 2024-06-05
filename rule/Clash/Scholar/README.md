@@ -12,7 +12,7 @@ Scholar规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:55:52
+最后更新时间：2024-06-02 02:10:51
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,9 +25,11 @@ Scholar规则由《RULE GENERATOR 规则生成器》自动生成。
 
 #### 使用说明
 - Scholar.yaml，请使用 behavior: "classical"。
+- Scholar_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Scholar.yaml 单独使用。
+- Scholar_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -65,7 +67,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Scholar.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Scholar.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Scholar.list
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Scholar.yaml
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/Scholar.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Scholar.yaml

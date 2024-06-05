@@ -15,27 +15,28 @@ IPTV其他规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:59:53
+最后更新时间：2024-04-29 13:37:07
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 2328  | 
-| IP-CIDR | 516  | 
-| TOTAL | 2844  | 
+| DOMAIN | 2299  | 
+| IP-CIDR | 515  | 
+| TOTAL | 2814  | 
 
 
 ## Clash 
 
 #### 使用说明
 - IPTVOther.yaml，请使用 behavior: "classical"。
+- IPTVOther_Resolve.yaml，请使用 behavior: "classical"。
 - IPTVOther_Classical.yaml，请使用 behavior: "classical"。
 - IPTVOther_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- IPTVOther_Domain.yaml 单独使用。
 - IPTVOther_Classical.yaml 单独使用。
 - IPTVOther.yaml、IPTVOther_Domain.yaml 共同使用。
+- IPTVOther_Resolve.yaml、IPTVOther_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**

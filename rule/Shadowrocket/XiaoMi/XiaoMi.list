@@ -1,10 +1,10 @@
 # NAME: XiaoMi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-14 16:55:59
-# DOMAIN-SUFFIX: 122
+# UPDATED: 2024-06-01 02:11:28
+# DOMAIN-SUFFIX: 125
 # IP-CIDR: 4
-# TOTAL: 126
+# TOTAL: 129
 DOMAIN-SUFFIX,408399.com
 DOMAIN-SUFFIX,408399.net
 DOMAIN-SUFFIX,816798.net
@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,micode.com.cn
 DOMAIN-SUFFIX,micode.net
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,mij.cc
+DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,mikge.com
 DOMAIN-SUFFIX,miliao.com
 DOMAIN-SUFFIX,milliant.com
@@ -113,6 +114,7 @@ DOMAIN-SUFFIX,xiaomidns.cn
 DOMAIN-SUFFIX,xiaomidns.com
 DOMAIN-SUFFIX,xiaomidns.com.cn
 DOMAIN-SUFFIX,xiaomidns.net
+DOMAIN-SUFFIX,xiaomiev.com
 DOMAIN-SUFFIX,xiaomiinc.cn
 DOMAIN-SUFFIX,xiaomiinc.com
 DOMAIN-SUFFIX,xiaomiinc.com.cn
@@ -122,6 +124,7 @@ DOMAIN-SUFFIX,xiaomisa.cn
 DOMAIN-SUFFIX,xiaomisa.com
 DOMAIN-SUFFIX,xiaomisa.net
 DOMAIN-SUFFIX,xiaomisa.org
+DOMAIN-SUFFIX,xiaomixiaoai.com
 DOMAIN-SUFFIX,xiaomiyoupin.com
 DOMAIN-SUFFIX,xlaomi.net
 DOMAIN-SUFFIX,youpin.cn

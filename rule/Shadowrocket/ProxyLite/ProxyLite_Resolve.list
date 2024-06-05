@@ -1,35 +1,41 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-15 02:13:41
-# DOMAIN: 23
+# UPDATED: 2024-05-30 02:11:30
+# DOMAIN: 29
 # DOMAIN-KEYWORD: 22
-# DOMAIN-SUFFIX: 842
+# DOMAIN-SUFFIX: 841
 # IP-CIDR: 93
 # USER-AGENT: 7
-# TOTAL: 987
+# TOTAL: 992
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,api.msn.com
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
+DOMAIN,assets.msn.com
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,beta.music.apple.com
 DOMAIN,books.apple.com
+DOMAIN,cdp.cloud.unity3d.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,clubhouse.pubnubapi.com
+DOMAIN,copilot.microsoft.com
 DOMAIN,disk.yandex.com
 DOMAIN,lab.skk.moe
+DOMAIN,location.microsoft.com
+DOMAIN,login.microsoftonline.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,search.yahoo.co.jp
+DOMAIN,self.events.data.microsoft.com
 DOMAIN,tv.apple.com
-DOMAIN,voice.telephony.goog
 DOMAIN,wego.here.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,4everproxy.com
@@ -61,17 +67,16 @@ DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,angularjs.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,api.mixpanel.com
 DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,apk-dl.com
@@ -132,7 +137,6 @@ DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.de
 DOMAIN-SUFFIX,bloombergview.com
@@ -157,14 +161,11 @@ DOMAIN-SUFFIX,cdn.segment.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,celestrak.com
 DOMAIN-SUFFIX,census.gov
-DOMAIN-SUFFIX,chalungu.cn
 DOMAIN-SUFFIX,change.org
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,chinatimes.com
 DOMAIN-SUFFIX,cl.ly
-DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,clien.net
 DOMAIN-SUFFIX,cloud.cupronickel.goog
 DOMAIN-SUFFIX,cloudcone.com
@@ -264,6 +265,7 @@ DOMAIN-SUFFIX,feeder.co
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,fiftythree.com
+DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
@@ -452,6 +454,7 @@ DOMAIN-SUFFIX,newstatesman.com
 DOMAIN-SUFFIX,newsweek.com
 DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,newyorktimes.com
+DOMAIN-SUFFIX,nextmedia.com
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nicovideo.jp
@@ -516,6 +519,9 @@ DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,playpcesor.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,pokemon.com
 DOMAIN-SUFFIX,poloniex.com
@@ -797,7 +803,6 @@ DOMAIN-SUFFIX,welt.de
 DOMAIN-SUFFIX,wenxuecity.com
 DOMAIN-SUFFIX,westca.com
 DOMAIN-SUFFIX,westpoint.edu
-DOMAIN-SUFFIX,wheel-size.cn
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org

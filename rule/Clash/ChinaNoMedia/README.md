@@ -15,30 +15,31 @@ ChinaNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:57:52
+最后更新时间：2024-06-02 02:11:59
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 19  | 
+| DOMAIN | 15  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 3588  | 
+| DOMAIN-SUFFIX | 3585  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
-| TOTAL | 3631  | 
+| TOTAL | 3624  | 
 
 
 ## Clash 
 
 #### 使用说明
 - ChinaNoMedia.yaml，请使用 behavior: "classical"。
+- ChinaNoMedia_Resolve.yaml，请使用 behavior: "classical"。
 - ChinaNoMedia_Classical.yaml，请使用 behavior: "classical"。
 - ChinaNoMedia_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- ChinaNoMedia_Domain.yaml 单独使用。
 - ChinaNoMedia_Classical.yaml 单独使用。
 - ChinaNoMedia.yaml、ChinaNoMedia_Domain.yaml 共同使用。
+- ChinaNoMedia_Resolve.yaml、ChinaNoMedia_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -106,14 +107,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 《ChinaNoMedia》的数据来自以下链接，如与本项目的《ChinaNoMedia》规则混合使用，可能会造成规则大量重复。
 
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list
 - https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/CN.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic.yaml
-- https://rules.kr328.app/geolocation-cn.yaml
 - https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rules/Mainland.list
 
 

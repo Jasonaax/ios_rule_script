@@ -12,7 +12,7 @@
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:56:51
+最后更新时间：2024-04-29 13:35:11
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -28,13 +28,14 @@
 
 #### 使用说明
 - Alibaba.yaml，请使用 behavior: "classical"。
+- Alibaba_Resolve.yaml，请使用 behavior: "classical"。
 - Alibaba_Classical.yaml，请使用 behavior: "classical"。
 - Alibaba_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- Alibaba_Domain.yaml 单独使用。
 - Alibaba_Classical.yaml 单独使用。
 - Alibaba.yaml、Alibaba_Domain.yaml 共同使用。
+- Alibaba_Resolve.yaml、Alibaba_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -96,10 +97,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list
-- https://rules.kr328.app/alibaba-ads@ads.yaml
-- https://rules.kr328.app/alibaba@ads.yaml
-- https://rules.kr328.app/alibaba.yaml
-- https://rules.kr328.app/alibaba-ads.yaml
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Alibaba.yaml
 - https://ruleset.isagood.day/alibaba.conf
 - https://ruleset.isagood.day/alibaba_domain.conf

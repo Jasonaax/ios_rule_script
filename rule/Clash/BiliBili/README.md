@@ -12,25 +12,27 @@ BiliBili规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:55:58
+最后更新时间：2024-06-02 02:10:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 53  | 
-| DOMAIN-SUFFIX | 61  | 
+| DOMAIN-SUFFIX | 62  | 
 | IP-CIDR | 8  | 
 | PROCESS-NAME | 6  | 
-| TOTAL | 128  | 
+| TOTAL | 129  | 
 
 
 ## Clash 
 
 #### 使用说明
 - BiliBili.yaml，请使用 behavior: "classical"。
+- BiliBili_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - BiliBili.yaml 单独使用。
+- BiliBili_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -67,10 +69,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 《BiliBili》的数据来自以下链接，如与本项目的《BiliBili》规则混合使用，可能会造成规则大量重复。
 
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/bilibili.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bilibili.yaml
-- https://rules.kr328.app/bilibili.yaml
 - https://ruleset.isagood.day/bilibili.conf
 
 

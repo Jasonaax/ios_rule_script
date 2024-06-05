@@ -12,30 +12,31 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-15 02:13:02
+最后更新时间：2024-06-05 02:11:23
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 11  | 
+| DOMAIN | 15  | 
 | DOMAIN-KEYWORD | 29  | 
-| DOMAIN-SUFFIX | 5892  | 
-| IP-CIDR | 94  | 
-| IP-CIDR6 | 3  | 
-| TOTAL | 6029  | 
+| DOMAIN-SUFFIX | 5906  | 
+| IP-CIDR | 96  | 
+| IP-CIDR6 | 4  | 
+| TOTAL | 6050  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Proxy.yaml，请使用 behavior: "classical"。
+- Proxy_Resolve.yaml，请使用 behavior: "classical"。
 - Proxy_Classical.yaml，请使用 behavior: "classical"。
 - Proxy_Domain.yaml，请使用 behavior: "domain"。
 
 #### 配置建议
-- Proxy_Domain.yaml 单独使用。
 - Proxy_Classical.yaml 单独使用。
 - Proxy.yaml、Proxy_Domain.yaml 共同使用。
+- Proxy_Resolve.yaml、Proxy_Domain.yaml 共同使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
@@ -92,9 +93,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 当前分流规则，未包含其他子规则。
 
 当前分流规则，已排除以下规则：
-| 排除规则  |  | 
-| ---- | ----  |
-| Advertising | OpenAI  | 
+| 排除规则  |  |  | 
+| ---- | ---- | ----  |
+| Advertising | Claude | OpenAI  | 
 
 ## 数据来源
 

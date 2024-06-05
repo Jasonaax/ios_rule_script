@@ -15,16 +15,14 @@ DOMAIN,gspe1-ssl.ls.apple.com  必要，但会导致「地图」使用「TOMTOM�
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:52:33
+最后更新时间：2024-04-29 13:32:57
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 8  | 
-| DOMAIN-SUFFIX | 1  | 
-| PROCESS-NAME | 1  | 
+| DOMAIN | 2  | 
 | USER-AGENT | 2  | 
-| TOTAL | 12  | 
+| TOTAL | 4  | 
 
 
 ## Surge 

@@ -1,14 +1,14 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-12-14 16:55:48
-# DOMAIN: 29
+# UPDATED: 2024-04-29 13:34:27
+# DOMAIN: 28
 # DOMAIN-KEYWORD: 25
-# DOMAIN-SUFFIX: 1253
+# DOMAIN-SUFFIX: 1255
 # IP-CIDR: 918
 # IP-CIDR6: 6
 # PROCESS-NAME: 3
-# TOTAL: 2234
+# TOTAL: 2235
 payload:
   - DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv
   - DOMAIN,api.okzy.tv
@@ -36,7 +36,6 @@ payload:
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
   - DOMAIN,ocvideo.apple.com
-  - DOMAIN,p.bstarstatic.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
   - DOMAIN-SUFFIX,112263.com
@@ -63,7 +62,6 @@ payload:
   - DOMAIN-SUFFIX,amazon.jobs
   - DOMAIN-SUFFIX,amazonaws.co.uk
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,amazonprimevideo.cn
   - DOMAIN-SUFFIX,amazonprimevideos.com
   - DOMAIN-SUFFIX,amazontools.com
   - DOMAIN-SUFFIX,amazontours.com
@@ -134,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,boxun.com
   - DOMAIN-SUFFIX,bravotv.com
   - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,bstarstatic.com
   - DOMAIN-SUFFIX,bucketeer.jp
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,byteoversea.com
@@ -165,6 +164,7 @@ payload:
   - DOMAIN-SUFFIX,cbstelevisioncity.com
   - DOMAIN-SUFFIX,cdn.optimizely.com
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,channel4.com
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,chocotv.com.tw
@@ -991,6 +991,7 @@ payload:
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktok.us
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,timestalks.com

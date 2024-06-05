@@ -12,25 +12,27 @@ Emby规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2023-12-14 16:58:47
+最后更新时间：2024-04-29 13:36:21
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 1  | 
+| DOMAIN | 3  | 
 | DOMAIN-KEYWORD | 3  | 
-| DOMAIN-SUFFIX | 34  | 
+| DOMAIN-SUFFIX | 44  | 
 | PROCESS-NAME | 1  | 
-| TOTAL | 39  | 
+| TOTAL | 51  | 
 
 
 ## Clash 
 
 #### 使用说明
 - Emby.yaml，请使用 behavior: "classical"。
+- Emby_Resolve.yaml，请使用 behavior: "classical"。
 
 #### 配置建议
 - Emby.yaml 单独使用。
+- Emby_Resolve.yaml 单独使用。
 
 #### 规则链接
 **MASTER分支 (每日更新)**
