@@ -54,10 +54,10 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
-DOMAIN-KEYWORD,emby.wtf
-DOMAIN-KEYWORD,jmsooo
-DOMAIN-KEYWORD,odysseyplus
-PROCESS-NAME,com.mb.android
+# DOMAIN-KEYWORD,emby.wtf
+# DOMAIN-KEYWORD,jmsooo
+# DOMAIN-KEYWORD,odysseyplus
+# PROCESS-NAME,com.mb.android
 
 
 #更新时间2024-07-16
@@ -78,5 +78,5 @@ DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,us.txrui.top
 DOMAIN-SUFFIX,sg.imetyou.top
-IP-CIDR,38.64.72.148/24
-IP-CIDR,18.181.193.236/24
+IP-CIDR,38.64.72.148/24,no-resolve
+IP-CIDR,18.181.193.236/24,no-resolve
