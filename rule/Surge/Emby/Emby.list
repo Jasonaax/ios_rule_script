@@ -54,13 +54,13 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,xmsl.org
-# DOMAIN-KEYWORD,emby.wtf
-# DOMAIN-KEYWORD,jmsooo
-# DOMAIN-KEYWORD,odysseyplus
-# PROCESS-NAME,com.mb.android
+DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
+PROCESS-NAME,com.mb.android
 
 
-#更新时间2024-07-16
+# 更新时间2024-07-16
 DOMAIN,emby.imetyou.top
 DOMAIN-SUFFIX,embymv.top
 DOMAIN-SUFFIX,embymv.tk
