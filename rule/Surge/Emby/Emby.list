@@ -60,12 +60,11 @@ DOMAIN-KEYWORD,odysseyplus
 PROCESS-NAME,com.mb.android
 
 
-#更新时间2024-03-30
-DOMAIN,embymv.me,Emby
-DOMAIN,embymv.top,peach
-DOMAIN,play.embymv.top,peach
+#更新时间2024-07-16
 DOMAIN,emby.imetyou.top
+DOMAIN-SUFFIX,embymv.top
 DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embymv.me
 DOMAIN-SUFFIX,c.emby.pro
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,ju.dog
