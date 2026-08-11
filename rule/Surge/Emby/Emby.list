@@ -1,10 +1,10 @@
 # NAME: Emby
 # AUTHOR: justdoiting
 # REPO: https://github.com/justdoiting/emby-rules
-# UPDATED: 2024-04-29 13:36:21
+# UPDATED: 2026-08-11 13:36:21
 # DOMAIN: 3
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 44
+# DOMAIN-SUFFIX: 45
 # PROCESS-NAME: 1
 # TOTAL: 51
 DOMAIN,emby.enjoyit.eu.org
@@ -62,6 +62,7 @@ PROCESS-NAME,com.mb.android
 
 # 更新时间2024-07-16
 DOMAIN,emby.imetyou.top
+DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,embymv.top
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-SUFFIX,embymv.me
